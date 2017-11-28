@@ -55,11 +55,9 @@ h1, h2, h3, h4, h5 {
   font-weight: 800 !important; }
 
 .header {
-  background: url("https://www.dropbox.com/home/StemMedia-HomePage?preview=hompage-banner.JPG");
+  background: url("../images/hompage-banner.JPG") center 0;
   box-shadow: 1px 4px 7px rgba(51, 51, 51, 0.8);
-  z-index: 10;
-  position: fixed;
-  width: 100%; }
+  background: cover; }
 
 .header .logo {
   float: left;
@@ -71,7 +69,7 @@ h1, h2, h3, h4, h5 {
     padding-bottom: 0.62rem !important; } }
 
 h1 {
-  font-size: 2.18rem;
+  font-size: 50px;
   font-weight: 600; }
 
 @media (max-width: 870px) {
@@ -130,16 +128,6 @@ h5 {
   h5 {
     font-size: 0.9rem; } }
 
-a {
-  font-size: 1.25rem;
-  text-decoration: none;
-  color: #fff;
-  font-weight: 800; }
-
-@media (max-width: 815px) {
-  a {
-    font-size: 0.9rem; } }
-
 p {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.4;
@@ -175,6 +163,18 @@ strong {
   .margin-center {
     margin: 0 auto; } }
 
+.top-100 {
+  margin-top: 100px; }
+
+.top-50 {
+  padding-top: 50px; }
+
+.bottom-120 {
+  padding-bottom: 120px; }
+
+.left-25 {
+  margin-left: 25px; }
+
 .float {
   float: left; }
 
@@ -189,6 +189,9 @@ body {
 
 p, li, a {
   font-family: 'Open Sans', sans-serif; }
+
+.decoration-none {
+  text-decoration: none; }
 
 .flex-container {
   display: flex;
@@ -205,52 +208,41 @@ p, li, a {
   margin-left: 1.25rem;
   margin-right: 1.25rem; }
 
-.box-shadow {
-  -webkit-box-shadow: 1px 3px 46px -13px #fff;
-  -moz-box-shadow: 1px 3px 46px -13px #fff;
-  box-shadow: 1px 3px 46px -13px #fff; }
-
-@media (max-width: 1150px) {
-  .box-shadow {
-    -webkit-box-shadow: none;
-    -moz-box-shadow: none;
-    box-shadow: none; } }
-
 .row {
   padding-bottom: 1.875rem; }
 
-.row__50 {
-  width: 50%; }
+.row__60 {
+  width: 60%; }
 
 @media (max-width: 1150px) {
-  .row__50 {
+  .row__60 {
     width: 90%;
     text-align: center;
     margin: 0 auto;
     padding-bottom: 5px; } }
 
 @media (max-width: 815px) {
-  .row__50 {
+  .row__60 {
     width: auto; } }
 
 @media (max-width: 1150px) {
-  .row__50--header {
+  .row__60--header {
     width: 30%; } }
 
 @media (max-width: 1150px) {
-  .row__50--mobile {
+  .row__60--mobile {
     width: 50%;
     padding-bottom: 42px; } }
 
 @media (max-width: 1015px) {
-  .row__50--mobile {
+  .row__60--mobile {
     width: 70%; } }
 
-.row__33 {
-  width: 33%; }
+.row__40 {
+  width: 40%; }
 
 @media (max-width: 1150px) {
-  .row__33 {
+  .row__40 {
     width: 80%;
     margin: 0 auto;
     padding-top: 2.18rem;
@@ -258,33 +250,33 @@ p, li, a {
     margin-bottom: 0.62rem; } }
 
 @media (max-width: 1150px) {
-  .row__33--mobile {
+  .row__40--mobile {
     padding-top: 0rem;
     margin-bottom: 3.12rem; } }
 
-.row__33--nobg {
+.row__40--nobg {
   padding: 0px;
   padding: 0 1.87rem; }
 
 @media (max-width: 1150px) {
-  .row__33--nobg {
+  .row__40--nobg {
     width: 80%;
     margin: 0 auto;
     padding-top: 2.18rem;
     padding-bottom: 2.18rem; } }
 
-.row__33--bluebg {
+.row__40--bluebg {
   background-color: #234769;
   margin: 5px; }
 
 @media (max-width: 1150px) {
-  .row__33--bluebg {
+  .row__40--bluebg {
     width: 45%;
     padding-bottom: 1.56rem;
     margin: 0 auto; } }
 
 @media (max-width: 600px) {
-  .row__33--bluebg {
+  .row__40--bluebg {
     width: 65%; } }
 
 .wrapper {
@@ -306,24 +298,15 @@ p, li, a {
   font-weight: 500;
   list-style: none; }
 
-.checklist__item__item:before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0px;
-  height: 1.25rem;
-  width: 1.25rem;
-  background: url("https://media2-briantracy-com.s3.amazonaws.com/assets/success/power-productivity/green-check.png") center top no-repeat;
-  background-size: contain;
-  top: 0px; }
+.stem-logo {
+  width: 40%;
+  padding: 30px; }
 
-.checklist__item:before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  height: 1.25rem;
-  width: 1.25rem;
-  background: url("https://media2-briantracy-com.s3.amazonaws.com/assets/success/power-productivity/green-check.png") center top no-repeat;
-  background-size: contain;
-  top: 0px; }
+.txt:hover {
+  padding-bottom: 5px;
+  border-bottom: 4px solid #faa53f; }
+
+.orange-bg {
+  background-color: #faa53f;
+  border-radius: 25px;
+  padding: 13px; }
