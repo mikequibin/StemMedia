@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65d50456-1da6-4cb9-9c12-5631d483e2bd" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\images\stemmedia-logo.PNG" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/css/home-page.css" afterPath="$PROJECT_DIR$/home-page/assets/src/css/home-page.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/home-page.html" afterPath="$PROJECT_DIR$/home-page/home-page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" afterPath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" />
@@ -10,8 +11,8 @@
     <ignored path="StemMedia.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511846954834" ignored="false" />
-    <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511867768370" ignored="false" />
-    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511867386150" ignored="false" />
+    <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511870345384" ignored="false" />
+    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511870432047" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
       <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="50" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.73913044">
+            <state line="37" column="0" selection-start="1700" selection-end="1700" vertical-scroll-proportion="0.49275362">
               <folding />
             </state>
           </provider>
@@ -43,7 +44,7 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="198" column="16" selection-start="2753" selection-end="2753" vertical-scroll-proportion="-7.48">
+            <state line="197" column="16" selection-start="2717" selection-end="2717" vertical-scroll-proportion="-4.88">
               <folding />
             </state>
           </provider>
@@ -322,14 +323,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="16" selection-start="2753" selection-end="2753" vertical-scroll-proportion="-7.48">
+        <state line="197" column="16" selection-start="2717" selection-end="2717" vertical-scroll-proportion="-4.88">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="50" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.73913044">
+        <state line="37" column="0" selection-start="1700" selection-end="1700" vertical-scroll-proportion="0.49275362">
           <folding />
         </state>
       </provider>

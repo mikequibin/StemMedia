@@ -59,9 +59,8 @@ h1, h2, h3, h4, h5 {
   box-shadow: 1px 4px 7px rgba(51, 51, 51, 0.8);
   background: cover; }
 
-.header .logo {
-  float: left;
-  margin-top: 0.45rem; }
+.header__navbar {
+  margin-left: 28%; }
 
 @media (max-width: 1150px) {
   .header {
@@ -166,8 +165,8 @@ strong {
 .top-100 {
   margin-top: 100px; }
 
-.top-50 {
-  padding-top: 50px; }
+.top-40 {
+  padding-top: 40px; }
 
 .bottom-120 {
   padding-bottom: 120px; }
@@ -190,8 +189,9 @@ body {
 p, li, a {
   font-family: 'Open Sans', sans-serif; }
 
-.decoration-none {
-  text-decoration: none; }
+.decoration {
+  text-decoration: none;
+  text-shadow: 2px 1px 0px #800000; }
 
 .flex-container {
   display: flex;
@@ -211,38 +211,38 @@ p, li, a {
 .row {
   padding-bottom: 1.875rem; }
 
-.row__60 {
-  width: 60%; }
+.row__75 {
+  width: 75%; }
 
 @media (max-width: 1150px) {
-  .row__60 {
+  .row__75 {
     width: 90%;
     text-align: center;
     margin: 0 auto;
     padding-bottom: 5px; } }
 
 @media (max-width: 815px) {
-  .row__60 {
+  .row__75 {
     width: auto; } }
 
 @media (max-width: 1150px) {
-  .row__60--header {
+  .row__75--header {
     width: 30%; } }
 
 @media (max-width: 1150px) {
-  .row__60--mobile {
+  .row__75--mobile {
     width: 50%;
     padding-bottom: 42px; } }
 
 @media (max-width: 1015px) {
-  .row__60--mobile {
+  .row__75--mobile {
     width: 70%; } }
 
-.row__40 {
-  width: 40%; }
+.row__25 {
+  width: 25%; }
 
 @media (max-width: 1150px) {
-  .row__40 {
+  .row__25 {
     width: 80%;
     margin: 0 auto;
     padding-top: 2.18rem;
@@ -250,37 +250,37 @@ p, li, a {
     margin-bottom: 0.62rem; } }
 
 @media (max-width: 1150px) {
-  .row__40--mobile {
+  .row__25--mobile {
     padding-top: 0rem;
     margin-bottom: 3.12rem; } }
 
-.row__40--nobg {
+.row__25--nobg {
   padding: 0px;
   padding: 0 1.87rem; }
 
 @media (max-width: 1150px) {
-  .row__40--nobg {
+  .row__25--nobg {
     width: 80%;
     margin: 0 auto;
     padding-top: 2.18rem;
     padding-bottom: 2.18rem; } }
 
-.row__40--bluebg {
+.row__25--bluebg {
   background-color: #234769;
   margin: 5px; }
 
 @media (max-width: 1150px) {
-  .row__40--bluebg {
+  .row__25--bluebg {
     width: 45%;
     padding-bottom: 1.56rem;
     margin: 0 auto; } }
 
 @media (max-width: 600px) {
-  .row__40--bluebg {
+  .row__25--bluebg {
     width: 65%; } }
 
 .wrapper {
-  max-width: 1920px;
+  max-width: 1365px;
   width: auto;
   margin: 0 auto; }
 
@@ -290,7 +290,8 @@ p, li, a {
   margin: 0 auto; }
 
 .checklist__item {
-  font-size: 1.12rem;
+  font-size: 0.8rem;
+  text-transform: uppercase;
   text-align: left;
   position: relative;
   padding-left: 2.26rem;
@@ -299,8 +300,8 @@ p, li, a {
   list-style: none; }
 
 .stem-logo {
-  width: 40%;
-  padding: 30px; }
+  padding-left: 30px;
+  padding-top: 20px; }
 
 .txt:hover {
   padding-bottom: 5px;

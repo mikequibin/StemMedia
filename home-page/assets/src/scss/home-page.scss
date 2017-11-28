@@ -65,9 +65,12 @@ h1, h2, h3, h4, h5{
   box-shadow: 1px 4px 7px rgba(51,51,51,0.8);
   background: cover;
 
-  .logo{
-    float: left;
-    margin-top: 0.45rem;
+  &__logo{
+
+  }
+
+  &__navbar{
+    margin-left: 28%;
   }
 
   @media (max-width:1150px) {
@@ -191,8 +194,8 @@ strong {
 .top-100{
   margin-top: 100px;
 }
-.top-50{
-  padding-top: 50px;
+.top-40{
+  padding-top: 40px;
 }
 
 .bottom-120{
@@ -223,8 +226,9 @@ p, li, a {
   font-family: 'Open Sans', sans-serif;
 }
 
-.decoration-none{
+.decoration{
   text-decoration: none;
+  text-shadow: 2px 1px 0px #800000;
 }
 
 .flex-container {
@@ -248,8 +252,8 @@ p, li, a {
 .row{
   padding-bottom: 1.875rem;
 
-  &__60{
-    width: 60%;
+  &__75{
+    width: 75%;
 
     @media (max-width:1150px) {
       width: 90%;
@@ -284,8 +288,8 @@ p, li, a {
     }
   }
 
-  &__40{
-    width: 40%;
+  &__25{
+    width: 25%;
 
     @media (max-width:1150px) {
       width: 80%;
@@ -333,7 +337,7 @@ p, li, a {
 }
 
 .wrapper{
-  max-width: 1920px;
+  max-width: 1365px;
   width: auto;
   margin: 0 auto;
 }
@@ -347,7 +351,8 @@ p, li, a {
 .checklist{
 
   &__item{
-    font-size: 1.12rem;
+    font-size: 0.8rem;
+    text-transform: uppercase;
     text-align: left;
     position: relative;
     padding-left: 2.26rem;
@@ -358,9 +363,10 @@ p, li, a {
 }
 
 .stem-logo{
-  width: 40%;
-  padding: 30px;
+  padding-left: 30px;
+  padding-top: 20px;
 }
+
 
 .txt:hover {
   padding-bottom: 5px;
