@@ -228,6 +228,10 @@ p{
 .left-200{
   margin-left: 200px;
 }
+.left-90{
+  margin-left: 90px;
+}
+
 
 .left-25{
   margin-left: 225px;
@@ -465,9 +469,17 @@ p, li, a {
 .white-button{
   background-color: fff;
   width: 35%;
-  padding: 2px;
-  border-radius: 15px;
+  padding: 0px;
+  border-radius: 20px;
 
+  &__img{
+    position: absolute;
+    margin: 0 10px;
+  }
+
+  &__text{
+    margin: 0 45px;
+  }
 }
 
 
