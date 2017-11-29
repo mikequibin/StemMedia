@@ -48,17 +48,6 @@ h1, h2, h3, h4, h5{
   font-weight: 500;
 }
 
-.font-weight{
-  font-weight: 700;
-
-  &__normal{
-    font-weight: 500!important;
-  }
-
-  &__big{
-    font-weight: 800!important;
-  }
-}
 
 .header{
   background: url("../images/hompage-banner.JPG") center 0;
@@ -170,6 +159,10 @@ p{
   font-weight: 900;
 }
 
+.font-40{
+  font-size: 40px;
+}
+
 .text-center {
   text-align: center;
 }
@@ -187,13 +180,21 @@ p{
 }
 
 .text-white{
-  color: #fff;
+   color: #fff;
+ }
+
+.text-orange{
+  color: #faa53f;
 }
 
 .margin-center{
   @media (max-width:1150px) {
     margin: 0 auto;
   }
+}
+
+.margin-20{
+  margin-left: 20%;
 }
 
 .top-180{
@@ -207,11 +208,19 @@ p{
   padding-top: 25px;
 }
 
+.top-15{
+  padding-top: 15px;
+}
+
 .bottom-250{
   padding-bottom: 250px;
 }
 .bottom-20{
   padding-bottom: 20px;
+}
+
+.bottom-25{
+  padding-bottom: 25px;
 }
 
 .left-200{
@@ -234,6 +243,10 @@ p{
       float: none;
     }
   }
+}
+
+.letter-spacing{
+  letter-spacing: 2px;
 }
 
 body {
@@ -259,6 +272,10 @@ p, li, a {
 .decoration-stem{
   text-decoration: none;
   text-shadow: 4px 2px 0 #000;
+}
+
+.decoration-none{
+  text-decoration: none;
 }
 
 
@@ -402,6 +419,13 @@ p, li, a {
   padding-top: 20px;
 }
 
+.submit-content{
+  float: right;
+  width: 39%;
+  padding-top: -26px;
+  margin-top: -24px;
+}
+
 .txt:hover {
   padding-bottom: 5px;
   border-bottom: 4px solid #faa53f;
@@ -429,6 +453,20 @@ p, li, a {
   margin-right: 65px;
 }
 
+
+.hr{
+  border-bottom: 1px solid #fff;
+  width: 23%;
+  margin-left: -15px;
+}
+
+.white-button{
+  background-color: fff;
+  width: 35%;
+  padding: 2px;
+  border-radius: 15px;
+
+}
 
 
 

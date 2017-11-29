@@ -45,15 +45,6 @@ h1, h2, h3, h4, h5 {
   font-family: 'Maven Pro', sans-serif;
   font-weight: 500; }
 
-.font-weight {
-  font-weight: 700; }
-
-.font-weight__normal {
-  font-weight: 500 !important; }
-
-.font-weight__big {
-  font-weight: 800 !important; }
-
 .header {
   background: url("../images/hompage-banner.JPG") center 0;
   background: cover; }
@@ -148,6 +139,9 @@ p {
 .font-900 {
   font-weight: 900; }
 
+.font-40 {
+  font-size: 40px; }
+
 .text-center {
   text-align: center; }
 
@@ -163,9 +157,15 @@ p {
 .text-white {
   color: #fff; }
 
+.text-orange {
+  color: #faa53f; }
+
 @media (max-width: 1150px) {
   .margin-center {
     margin: 0 auto; } }
+
+.margin-20 {
+  margin-left: 20%; }
 
 .top-180 {
   margin-top: 180px; }
@@ -176,11 +176,17 @@ p {
 .top-25 {
   padding-top: 25px; }
 
+.top-15 {
+  padding-top: 15px; }
+
 .bottom-250 {
   padding-bottom: 250px; }
 
 .bottom-20 {
   padding-bottom: 20px; }
+
+.bottom-25 {
+  padding-bottom: 25px; }
 
 .left-200 {
   margin-left: 200px; }
@@ -197,6 +203,9 @@ p {
 @media (max-width: 815px) {
   .float--mobile {
     float: none; } }
+
+.letter-spacing {
+  letter-spacing: 2px; }
 
 body {
   font-size: 0.875rem;
@@ -217,6 +226,9 @@ p, li, a {
 .decoration-stem {
   text-decoration: none;
   text-shadow: 4px 2px 0 #000; }
+
+.decoration-none {
+  text-decoration: none; }
 
 .flex-container {
   display: flex;
@@ -331,6 +343,12 @@ p, li, a {
   padding-left: 30px;
   padding-top: 20px; }
 
+.submit-content {
+  float: right;
+  width: 39%;
+  padding-top: -26px;
+  margin-top: -24px; }
+
 .txt:hover {
   padding-bottom: 5px;
   border-bottom: 4px solid #faa53f; }
@@ -353,3 +371,14 @@ p, li, a {
   float: right;
   margin-top: -15%;
   margin-right: 65px; }
+
+.hr {
+  border-bottom: 1px solid #fff;
+  width: 23%;
+  margin-left: -15px; }
+
+.white-button {
+  background-color: fff;
+  width: 35%;
+  padding: 2px;
+  border-radius: 15px; }
