@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65d50456-1da6-4cb9-9c12-5631d483e2bd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/home-page.html" afterPath="$PROJECT_DIR$/home-page/home-page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="65d50456-1da6-4cb9-9c12-5631d483e2bd" name="Default" comment="" />
     <ignored path="StemMedia.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511936435567" ignored="false" />
@@ -33,7 +30,7 @@
       <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="0" selection-start="2135" selection-end="2135" vertical-scroll-proportion="0.72282606">
+            <state line="47" column="4" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.7536232">
               <folding />
             </state>
           </provider>
@@ -343,7 +340,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="2135" selection-end="2135" vertical-scroll-proportion="0.72282606">
+        <state line="47" column="4" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.7536232">
           <folding />
         </state>
       </provider>
