@@ -42,7 +42,7 @@ body, html {
   font-family: sans-serif; }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Maven Pro', sans-serif;
   font-weight: 500; }
 
 .font-weight {
@@ -67,8 +67,7 @@ h1, h2, h3, h4, h5 {
     padding-bottom: 0.62rem !important; } }
 
 h1 {
-  font-size: 50px;
-  font-weight: 600; }
+  font-size: 50px; }
 
 @media (max-width: 870px) {
   h1 {
@@ -79,9 +78,7 @@ h1 {
     font-size: 1.8rem; } }
 
 h2 {
-  font-size: 1.87rem;
-  font-weight: 700;
-  line-height: 1.25; }
+  font-size: 61px; }
 
 @media (max-width: 870px) {
   h2 {
@@ -139,8 +136,17 @@ p {
   p {
     margin: 0 1.25rem; } }
 
-strong {
-  font-weight: 800; }
+.font-400 {
+  font-weight: 400; }
+
+.font-500 {
+  font-weight: 500; }
+
+.font-700 {
+  font-weight: 700; }
+
+.font-900 {
+  font-weight: 900; }
 
 .text-center {
   text-align: center; }
@@ -167,11 +173,20 @@ strong {
 .top-40 {
   padding-top: 40px; }
 
+.top-25 {
+  padding-top: 25px; }
+
 .bottom-250 {
   padding-bottom: 250px; }
 
+.left-200 {
+  margin-left: 200px; }
+
 .left-25 {
   margin-left: 25px; }
+
+.left-20 {
+  margin-left: 20px; }
 
 .float {
   float: left; }
@@ -186,7 +201,7 @@ body {
   color: #333; }
 
 p, li, a {
-  font-family: 'Open Sans', sans-serif; }
+  font-family: 'Maven Pro', sans-serif; }
 
 .decoration {
   text-decoration: none;
@@ -195,6 +210,10 @@ p, li, a {
 .decoration-dark {
   text-decoration: none;
   text-shadow: 3px 1px 0px #000000; }
+
+.decoration-stem {
+  text-decoration: none;
+  text-shadow: 4px 2px 0 #000; }
 
 .flex-container {
   display: flex;
@@ -319,4 +338,10 @@ p, li, a {
   padding: 13px; }
 
 .orange-bg {
-  background-color: #faa53f; }
+  background-color: #faa53f;
+  margin-bottom: 100px;
+  margin-top: 130px; }
+
+.video-design {
+  padding-right: 27px;
+  padding-top: 60px; }
