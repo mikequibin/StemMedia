@@ -182,8 +182,13 @@ p {
 .bottom-250 {
   padding-bottom: 250px; }
 
+<<<<<<< HEAD
 .bottom-25 {
   padding-bottom: 25px; }
+=======
+.bottom-20 {
+  padding-bottom: 20px; }
+>>>>>>> b5576aa351238eba18e2f8fdb1ea8310089d74ef
 
 .left-200 {
   margin-left: 200px; }
@@ -364,6 +369,7 @@ p, li, a {
   padding-right: 27px;
   padding-top: 60px; }
 
+<<<<<<< HEAD
 .hr {
   border-bottom: 1px solid #fff;
   width: 23%;
@@ -374,3 +380,9 @@ p, li, a {
   width: 35%;
   padding: 2px;
   border-radius: 15px; }
+=======
+.social-media {
+  float: right;
+  margin-top: -15%;
+  margin-right: 65px; }
+>>>>>>> b5576aa351238eba18e2f8fdb1ea8310089d74ef
