@@ -382,10 +382,9 @@ p, li, a {
 
 .white-button {
   background-color: fff;
-  width: 41%;
-  padding: 2px;
-  border-radius: 15px; }
-<<<<<<< HEAD
+  width: 35%;
+  padding: 0px;
+  border-radius: 20px; }
 
 .white-button__img {
   position: absolute;
@@ -393,5 +392,3 @@ p, li, a {
 
 .white-button__text {
   margin: 0 45px; }
-=======
->>>>>>> 723f22b7f3c84c8dfd6e444f6ed0c0f821f06350
