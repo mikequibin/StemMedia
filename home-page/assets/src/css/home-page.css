@@ -56,7 +56,6 @@ h1, h2, h3, h4, h5 {
 
 .header {
   background: url("../images/hompage-banner.JPG") center 0;
-  box-shadow: 1px 4px 7px rgba(51, 51, 51, 0.8);
   background: cover; }
 
 .header__navbar {
@@ -211,6 +210,9 @@ p, li, a {
 .row {
   padding-bottom: 1.875rem; }
 
+.row__50 {
+  width: 50%; }
+
 .row__75 {
   width: 75%; }
 
@@ -307,7 +309,10 @@ p, li, a {
   padding-bottom: 5px;
   border-bottom: 4px solid #faa53f; }
 
-.orange-bg {
+.orange-ic {
   background-color: #faa53f;
   border-radius: 25px;
   padding: 13px; }
+
+.orange-bg {
+  background-color: #faa53f; }

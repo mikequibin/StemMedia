@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65d50456-1da6-4cb9-9c12-5631d483e2bd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zxcvb/asdfg.html" afterPath="$PROJECT_DIR$/zxcvb/asdfg.html" />
+      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\images\design.PNG" afterPath="" />
+      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\images\socialmedia-icon.PNG" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/css/home-page.css" afterPath="$PROJECT_DIR$/home-page/assets/src/css/home-page.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/home-page.html" afterPath="$PROJECT_DIR$/home-page/home-page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" afterPath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" afterPath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemMedia.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511935169153" ignored="false" />
-    <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511936704751" ignored="false" />
-    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511870432047" ignored="false" />
+    <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511941260868" ignored="false" />
+    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511941110935" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,7 @@
       <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="56" selection-start="1685" selection-end="1685" vertical-scroll-proportion="0.4003623">
+            <state line="34" column="4" selection-start="1721" selection-end="1721" vertical-scroll-proportion="0.7096774">
               <folding />
             </state>
           </provider>
@@ -43,7 +46,7 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="337" column="2" selection-start="4691" selection-end="4698" vertical-scroll-proportion="-3.6">
+            <state line="63" column="59" selection-start="1102" selection-end="1102" vertical-scroll-proportion="-10.54">
               <folding />
             </state>
           </provider>
@@ -320,14 +323,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="337" column="2" selection-start="4691" selection-end="4698" vertical-scroll-proportion="-3.6">
+        <state line="63" column="59" selection-start="1102" selection-end="1102" vertical-scroll-proportion="-10.54">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="56" selection-start="1685" selection-end="1685" vertical-scroll-proportion="0.4003623">
+        <state line="34" column="4" selection-start="1721" selection-end="1721" vertical-scroll-proportion="0.7096774">
           <folding />
         </state>
       </provider>
