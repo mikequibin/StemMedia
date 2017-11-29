@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5 {
   font-weight: 500; }
 
 .header {
-  background: url("../images/hompage-banner.JPG") center 0;
+  background: url("../images/homepage-banner.jpg") center 0;
   background: cover; }
 
 .header__navbar {
@@ -180,7 +180,7 @@ p {
   padding-top: 15px; }
 
 .bottom-250 {
-  padding-bottom: 250px; }
+  padding-bottom: 236px; }
 
 .bottom-20 {
   padding-bottom: 20px; }
@@ -385,6 +385,7 @@ p, li, a {
   width: 41%;
   padding: 2px;
   border-radius: 15px; }
+<<<<<<< HEAD
 
 .white-button__img {
   position: absolute;
@@ -392,3 +393,5 @@ p, li, a {
 
 .white-button__text {
   margin: 0 45px; }
+=======
+>>>>>>> 723f22b7f3c84c8dfd6e444f6ed0c0f821f06350
