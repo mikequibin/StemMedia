@@ -189,15 +189,15 @@ strong {
   }
 }
 
-.top-100{
-  margin-top: 100px;
+.top-180{
+  margin-top: 180px;
 }
 .top-40{
   padding-top: 40px;
 }
 
-.bottom-120{
-  padding-bottom: 120px;
+.bottom-250{
+  padding-bottom: 250px;
 }
 
 .left-25{
@@ -226,8 +226,14 @@ p, li, a {
 
 .decoration{
   text-decoration: none;
-  text-shadow: 2px 1px 0px #800000;
+  text-shadow: 2px 1px 0px #000000;
+  }
+
+.decoration-dark{
+  text-decoration: none;
+  text-shadow: 3px 1px 0px #000000;
 }
+
 
 .flex-container {
   display: flex;
