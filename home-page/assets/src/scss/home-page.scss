@@ -51,8 +51,9 @@ h1, h2, h3, h4, h5{
 
 .header{
   background: url("../images/homepage-banner.jpg") center 0;
-  background: cover;
-  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   &__logo{
 
   }
