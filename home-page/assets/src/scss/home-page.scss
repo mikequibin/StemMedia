@@ -58,7 +58,18 @@ h1, h2, h3, h4, h5{
   }
 
   &__navbar{
-    margin-left: 28%;
+    margin-left: 35%;
+
+    &--submit{
+      float: left;
+      margin-left: 30px;
+    }
+
+    &--search{
+      float: left;
+      margin-left: 20px;
+      margin-top: -7px;
+    }
   }
 
   @media (max-width:1150px) {
@@ -199,8 +210,17 @@ p{
 .top-180{
   margin-top: 180px;
 }
+
+.top-60{
+  padding-top: 60px;
+}
+
 .top-40{
   padding-top: 40px;
+}
+
+.top-30{
+  padding-top: 30px;
 }
 
 .top-25{
@@ -214,16 +234,26 @@ p{
   margin-top: -14px;
 }
 
-.bottom-250{
-  padding-bottom: 236px;
+.bottom-30{
+  padding-bottom: 30px;
 }
+
 .bottom-20{
   padding-bottom: 20px;
+}
+
+.bottom-15{
+  padding-bottom: 10px;
+}
+
+.bottom-10{
+  padding-bottom: 10px;
 }
 
 .bottom-25{
   padding-bottom: 25px;
 }
+
 
 .left-200{
   margin-left: 200px;
@@ -231,11 +261,6 @@ p{
 .left-90{
   margin-left: 90px;
 }
-
-
-.left-25{
-  margin-left: 225px;
- }
 
 .left-20{
   margin-left: 20px;
@@ -425,12 +450,23 @@ p, li, a {
   padding-top: 20px;
 }
 
-.submit-content{
-  float: right;
-  width: 39%;
-  padding-top: -26px;
 
+.banner{
+
+  &__heading{
+    color: #fff;
+    margin: 140px 10px 205px 10px;
+  }
+
+  &__down-arrow{
+    margin: 0 auto;
+    width: 70px;
+    padding-bottom: 10px;
+  }
 }
+
+
+
 
 .txt:hover {
   padding-bottom: 5px;
@@ -455,8 +491,12 @@ p, li, a {
 }
 .social-media{
   float: right;
-  margin-top: -15%;
-  margin-right: 65px;
+  margin-top: -16%;
+  margin-right: 3%;
+
+  &__icons{
+    width: 85%;
+  }
 }
 
 
@@ -468,21 +508,26 @@ p, li, a {
 
 .white-button{
   background-color: fff;
-  width: 35%;
-  padding: 0px;
+  width: 43%;
+  padding: 8px;
   border-radius: 20px;
 
   &__img{
     position: absolute;
-    margin: 0 10px;
+    padding-left:20px;
   }
 
   &__text{
-    margin: 0 45px;
+    margin-left: 50px;
   }
 }
 
-
+.blue-border{
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  margin-top: -46%;
+}
 
 
 
