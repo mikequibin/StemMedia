@@ -2,39 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65d50456-1da6-4cb9-9c12-5631d483e2bd" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\Our Community BG.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P1\p1-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P1\p1-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P1\p1-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P2\p2-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P2\p2-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P2\p2-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P3\p3-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P3\p3-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P3\p3-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P4\p4-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P4\p4-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P4\p4-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P5\p5-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P5\p5-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P5\p5-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P6\p6-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P6\p6-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P6\p6-ic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P7\p7-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P7\p7-com.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P7\p7-ic.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/css/home-page.css" afterPath="$PROJECT_DIR$/home-page/assets/src/css/home-page.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/home-page.html" afterPath="$PROJECT_DIR$/home-page/home-page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" afterPath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" afterPath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemMedia.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512013568193" ignored="false" />
-    <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512021259878" ignored="false" />
-    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512021186966" ignored="false" />
+    <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512022233110" ignored="false" />
+    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512022297283" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +34,7 @@
       <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="11" selection-start="4139" selection-end="4139" vertical-scroll-proportion="0.85009485">
+            <state line="99" column="14" selection-start="4434" selection-end="4434" vertical-scroll-proportion="0.7077799">
               <folding />
             </state>
           </provider>
@@ -66,7 +43,7 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="7" selection-start="902" selection-end="908" vertical-scroll-proportion="-3.6">
+            <state line="551" column="8" selection-start="7186" selection-end="7186" vertical-scroll-proportion="-9.12">
               <folding />
             </state>
           </provider>
@@ -91,8 +68,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/home-page/assets/src/js/home-page.js" />
-        <option value="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" />
         <option value="$PROJECT_DIR$/home-page/home-page.html" />
+        <option value="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" />
       </list>
     </option>
   </component>
@@ -427,14 +404,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="7" selection-start="902" selection-end="908" vertical-scroll-proportion="-3.6">
+        <state line="551" column="8" selection-start="7186" selection-end="7186" vertical-scroll-proportion="-9.12">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="11" selection-start="4139" selection-end="4139" vertical-scroll-proportion="0.85009485">
+        <state line="99" column="14" selection-start="4434" selection-end="4434" vertical-scroll-proportion="0.7077799">
           <folding />
         </state>
       </provider>

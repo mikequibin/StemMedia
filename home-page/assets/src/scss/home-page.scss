@@ -96,7 +96,7 @@ h2{
   font-size: 61px;
 
   @media (max-width:870px) {
-    margin: 0 1.25rem;
+    margin: 0 1.25rem
   }
 
   @media (max-width:815px) {
@@ -105,7 +105,7 @@ h2{
 }
 
 h3{
-  font-size: 1.46rem;
+  font-size: 49px;
 
   @media (max-width:870px) {
     margin: 0 1.25rem;
@@ -210,6 +210,10 @@ p{
 
 .top-180{
   margin-top: 180px;
+}
+
+.top-80{
+  padding-top: 80px;
 }
 
 .top-60{
@@ -534,6 +538,22 @@ p, li, a {
 
 .community-banner{
   background: url("../images/community-banner.jpg");
+}
+
+.community-header{
+
+  &__headline{
+    padding-top: 80px;
+    text-align: center;
+    color: #fff;
+    font-weight: 400;
+  }
+
+  &__subheadline{
+    font-size: 17px;
+    color: #fff;
+    text-align: center;
+  }
 }
 
 
