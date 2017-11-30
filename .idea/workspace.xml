@@ -2,15 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65d50456-1da6-4cb9-9c12-5631d483e2bd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" afterPath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home-page/assets/images/blue-border.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home-page/assets/images/blue-down-arrow.png" />
+      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\images\Our Community Images\P1\p1-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\images\Our Community Images\P1\p1-com.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\images\Our Community Images\P1\p1-ic.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\images\Our Community Images\P2\p2-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\images\Our Community Images\P2\p2-com.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\StemMedia\home-page\assets\images\Our Community Images\P2\p2-ic.png" afterPath="" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\Our Community BG.jpg" afterPath="$PROJECT_DIR$/home-page/assets/images/community-banner.jpg" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P3\p3-bg.jpg" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P3/p3-bg.jpg" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P3\p3-com.png" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P3/p3-com.png" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P3\p3-ic.png" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P3/p3-ic.png" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P4\p4-bg.jpg" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P4/p4-bg.jpg" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P4\p4-com.png" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P4/p4-com.png" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P4\p4-ic.png" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P4/p4-ic.png" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P5\p5-bg.jpg" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P5/p5-bg.jpg" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P5\p5-com.png" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P5/p5-com.png" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P5\p5-ic.png" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P5/p5-ic.png" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P6\p6-bg.jpg" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P6/p6-bg.jpg" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P6\p6-com.png" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P6/p6-com.png" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P6\p6-ic.png" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P6/p6-ic.png" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P7\p7-bg.jpg" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P7/p7-bg.jpg" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P7\p7-com.png" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P7/p7-com.png" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\Our Community Images\P7\p7-ic.png" afterPath="$PROJECT_DIR$/home-page/assets/images/Our Community Images/P7/p7-ic.png" />
+      <change type="MOVED" beforePath="C:\StemMedia\home-page\assets\images\youtube-icon.PNG" afterPath="$PROJECT_DIR$/home-page/assets/images/youtube-icons.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/css/home-page.css" afterPath="$PROJECT_DIR$/home-page/assets/src/css/home-page.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/home-page.html" afterPath="$PROJECT_DIR$/home-page/home-page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/js/home-page.js" afterPath="$PROJECT_DIR$/home-page/assets/src/js/home-page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" afterPath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/js/home-page.min.js" afterPath="$PROJECT_DIR$/home-page/assets/js/home-page.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" afterPath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemMedia.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511935169153" ignored="false" />
-    <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511955148564" ignored="false" />
-    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511954422244" ignored="false" />
-    <file path="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1511955007472" ignored="false" />
+    <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512028307426" ignored="false" />
+    <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512033708816" ignored="false" />
+    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512034143464" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +59,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home-page.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="0" selection-start="3611" selection-end="3611" vertical-scroll-proportion="0.0">
+            <state line="114" column="77" selection-start="5325" selection-end="5325" vertical-scroll-proportion="0.30550623">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home-page.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="469" column="22" selection-start="6254" selection-end="6254" vertical-scroll-proportion="0.2475083">
+            <state line="298" column="13" selection-start="3635" selection-end="3635" vertical-scroll-proportion="-4.02">
               <folding />
             </state>
           </provider>
@@ -66,8 +95,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/home-page/home-page.html" />
         <option value="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" />
+        <option value="$PROJECT_DIR$/home-page/home-page.html" />
       </list>
     </option>
   </component>
@@ -111,6 +140,30 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="StemMedia" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home-page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -291,26 +344,28 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home-page/assets/css/home-page.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="177" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home-page/assets/js/home-page.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
+    <entry file="file://$PROJECT_DIR$/home-page/assets/css/home-page.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="0" selection-start="3611" selection-end="3611" vertical-scroll-proportion="0.0">
+        <state line="0" column="2346" selection-start="2346" selection-end="2346" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="469" column="22" selection-start="6254" selection-end="6254" vertical-scroll-proportion="0.2475083">
+        <state line="298" column="13" selection-start="3635" selection-end="3635" vertical-scroll-proportion="-4.02">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="77" selection-start="5325" selection-end="5325" vertical-scroll-proportion="0.30550623">
           <folding />
         </state>
       </provider>

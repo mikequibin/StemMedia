@@ -51,14 +51,26 @@ h1, h2, h3, h4, h5{
 
 .header{
   background: url("../images/homepage-banner.jpg") center 0;
-  background: cover;
-  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   &__logo{
 
   }
 
   &__navbar{
-    margin-left: 28%;
+    margin-left: 35%;
+
+    &--submit{
+      float: left;
+      margin-left: 30px;
+    }
+
+    &--search{
+      float: left;
+      margin-left: 20px;
+      margin-top: -7px;
+    }
   }
 
   @media (max-width:1150px) {
@@ -84,7 +96,7 @@ h2{
   font-size: 61px;
 
   @media (max-width:870px) {
-    margin: 0 1.25rem;
+    margin: 0 1.25rem
   }
 
   @media (max-width:815px) {
@@ -93,7 +105,7 @@ h2{
 }
 
 h3{
-  font-size: 1.46rem;
+  font-size: 49px;
 
   @media (max-width:870px) {
     margin: 0 1.25rem;
@@ -199,28 +211,78 @@ p{
 .top-180{
   margin-top: 180px;
 }
+
+.top-80{
+  padding-top: 80px;
+}
+
+.top-60{
+  padding-top: 60px;
+}
+
 .top-40{
   padding-top: 40px;
+}
+
+.top-50{
+  padding-top: 50px;
+}
+
+.top-30{
+  padding-top: 30px;
+}
+
+.top46-per{
+ padding-top: 46%;
+}
+
+.top-35{
+  padding-top: 35%;
 }
 
 .top-25{
   padding-top: 25px;
 }
 
+.top21-per{
+  padding-top: 21%;
+}
+
 .top-15{
   padding-top: 15px;
 }
-
-.bottom-250{
-  padding-bottom: 236px;
+.top-10{
+  margin-top: -14px;
 }
+
+.mtop-36{
+  margin-top: 36px;
+}
+
+.bottom-70{
+  padding-bottom: 70px;
+}
+
+.bottom-30{
+  padding-bottom: 30px;
+}
+
 .bottom-20{
   padding-bottom: 20px;
+}
+
+.bottom-15{
+  padding-bottom: 10px;
+}
+
+.bottom-10{
+  padding-bottom: 10px;
 }
 
 .bottom-25{
   padding-bottom: 25px;
 }
+
 
 .left-200{
   margin-left: 200px;
@@ -229,13 +291,16 @@ p{
   margin-left: 90px;
 }
 
-
-.left-25{
-   margin-left: 25px;
- }
-
 .left-20{
   margin-left: 20px;
+}
+
+.height-342{
+  height: 342px;
+}
+
+.height-690{
+  height: 690px;
 }
 
 .float{
@@ -422,12 +487,23 @@ p, li, a {
   padding-top: 20px;
 }
 
-.submit-content{
-  float: right;
-  width: 39%;
-  padding-top: -26px;
-  margin-top: -24px;
+
+.banner{
+
+  &__heading{
+    color: #fff;
+    margin: 140px 10px 205px 10px;
+  }
+
+  &__down-arrow{
+    margin: 0 auto;
+    width: 70px;
+    padding-bottom: 10px;
+  }
 }
+
+
+
 
 .txt:hover {
   padding-bottom: 5px;
@@ -452,8 +528,12 @@ p, li, a {
 }
 .social-media{
   float: right;
-  margin-top: -15%;
-  margin-right: 65px;
+  margin-top: -16%;
+  margin-right: 3%;
+
+  &__icons{
+    width: 85%;
+  }
 }
 
 
@@ -465,26 +545,93 @@ p, li, a {
 
 .white-button{
   background-color: fff;
-  width: 35%;
-  padding: 0px;
+  width: 43%;
+  padding: 8px;
   border-radius: 20px;
 
   &__img{
     position: absolute;
-    margin: 0 10px;
+    padding-left:20px;
   }
 
   &__text{
-    margin: 0 45px;
+    margin-left: 50px;
   }
 }
 
+.blue-border{
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  margin-top: -46%;
+}
+
+/*OUR COMMUNITY*/
+
+.community-banner{
+  background: url("../images/community-banner.jpg");
+}
+
+.community-header{
+
+  &__headline{
+    padding-top: 80px;
+    text-align: center;
+    color: #fff;
+    font-weight: 400;
+  }
+
+  &__subheadline{
+    font-size: 17px;
+    color: #fff;
+    text-align: center;
+  }
+}
+
+.project{
+
+  padding-left: 30px;
+
+  &__1st{
+  background: url(../images/p1-bg.jpg);
+  }
+
+  &__2nd{
+    background: url(../images/p2-bg.jpg);
+  }
 
 
+  &__title{
+    font-size: 53px;
+    color: #fff;
+    font-weight: 500;
+  }
 
+  &__date{
+    font-size: 24px;
+    color: #fff;
+    font-weight: 400;
+  }
 
+  &__comment{
 
+    &--ic{
+      float: left;
+      margin-right: 13px;
+    }
 
+    p{
+      float: left;
+      color: #fff;
+      font-size: 23px;
+    }
+
+    &--avatar{
+      float: right;
+      padding-right: 20px;
+    }
+  }
+}
 
 
 
