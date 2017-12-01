@@ -224,12 +224,28 @@ p{
   padding-top: 40px;
 }
 
+.top-50{
+  padding-top: 50px;
+}
+
 .top-30{
   padding-top: 30px;
 }
 
+.top46-per{
+ padding-top: 46%;
+}
+
+.top-35{
+  padding-top: 35%;
+}
+
 .top-25{
   padding-top: 25px;
+}
+
+.top21-per{
+  padding-top: 21%;
 }
 
 .top-15{
@@ -237,6 +253,14 @@ p{
 }
 .top-10{
   margin-top: -14px;
+}
+
+.mtop-36{
+  margin-top: 36px;
+}
+
+.bottom-70{
+  padding-bottom: 70px;
 }
 
 .bottom-30{
@@ -269,6 +293,14 @@ p{
 
 .left-20{
   margin-left: 20px;
+}
+
+.height-342{
+  height: 342px;
+}
+
+.height-690{
+  height: 690px;
 }
 
 .float{
@@ -553,6 +585,51 @@ p, li, a {
     font-size: 17px;
     color: #fff;
     text-align: center;
+  }
+}
+
+.project{
+
+  padding-left: 30px;
+
+  &__1st{
+  background: url(../images/p1-bg.jpg);
+  }
+
+  &__2nd{
+    background: url(../images/p2-bg.jpg);
+  }
+
+
+  &__title{
+    font-size: 53px;
+    color: #fff;
+    font-weight: 500;
+  }
+
+  &__date{
+    font-size: 24px;
+    color: #fff;
+    font-weight: 400;
+  }
+
+  &__comment{
+
+    &--ic{
+      float: left;
+      margin-right: 13px;
+    }
+
+    p{
+      float: left;
+      color: #fff;
+      font-size: 23px;
+    }
+
+    &--avatar{
+      float: right;
+      padding-right: 20px;
+    }
   }
 }
 
