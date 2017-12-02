@@ -181,11 +181,20 @@ p {
 .top-180 {
   margin-top: 180px; }
 
+.top-100 {
+  padding-top: 100px; }
+
 .top-80 {
   padding-top: 80px; }
 
+.top-70 {
+  padding-top: 70px; }
+
 .top-60 {
   padding-top: 60px; }
+
+.top-55 {
+  padding-top: 55px; }
 
 .top-45 {
   padding-top: 45px; }
@@ -199,8 +208,8 @@ p {
 .top-30 {
   padding-top: 30px; }
 
-.top46-per {
-  padding-top: 46%; }
+.top-20 {
+  padding-top: 20px; }
 
 .top-35 {
   padding-top: 35%; }
@@ -208,8 +217,26 @@ p {
 .top-25 {
   padding-top: 25px; }
 
+.top49-per {
+  padding-top: 49%; }
+
+.top46-per {
+  padding-top: 46%; }
+
+.top40-per {
+  padding-top: 40%; }
+
+.top34-per {
+  padding-top: 34%; }
+
 .top31-per {
   padding-top: 31%; }
+
+.top25-per {
+  padding-top: 25%; }
+
+.top20-per {
+  padding-top: 20%; }
 
 .top16-per {
   padding-top: 16%; }
@@ -231,6 +258,9 @@ p {
 
 .mtop20 {
   margin-top: -20px; }
+
+.mtop-6 {
+  margin-top: -6px; }
 
 .bottom-38 {
   padding-bottom: 38px; }
@@ -524,6 +554,15 @@ p, li, a {
 .project__4th {
   background: url(../images/p4-bg.jpg); }
 
+.project__5th {
+  background: url(../images/p5-bg.jpg); }
+
+.project__6th {
+  background: url(../images/p6-bg.jpg); }
+
+.project__7th {
+  background: url(../images/p7-bg.jpg); }
+
 .project__title {
   font-size: 53px;
   color: #fff;
@@ -534,6 +573,11 @@ p, li, a {
   color: white;
   font-weight: 500; }
 
+.project__title6 {
+  font-size: 54px;
+  color: white;
+  font-weight: 500; }
+
 .project__date {
   font-size: 24px;
   color: #fff;
@@ -541,6 +585,11 @@ p, li, a {
 
 .project__date3 {
   font-size: 16px;
+  color: white;
+  font-weight: 500; }
+
+.project__date6 {
+  font-size: 24px;
   color: white;
   font-weight: 500; }
 
