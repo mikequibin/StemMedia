@@ -217,7 +217,11 @@ p{
 }
 
 .top-60{
-  padding-top: 60px;
+   padding-top: 60px;
+ }
+
+.top-45{
+  padding-top: 45px;
 }
 
 .top-40{
@@ -244,8 +248,16 @@ p{
   padding-top: 25px;
 }
 
-.top21-per{
-  padding-top: 21%;
+.top31-per{
+  padding-top: 31%
+}
+
+.top16-per{
+  padding-top: 16%;
+}
+
+.bottom10-per{
+  padding-bottom: 10%;
 }
 
 .top-15{
@@ -255,12 +267,20 @@ p{
   margin-top: -14px;
 }
 
+.top-4{
+  padding-top: 4px;
+}
+
 .mtop-36{
   margin-top: 36px;
 }
 
-.bottom-70{
-  padding-bottom: 70px;
+.mtop20{
+  margin-top: -20px;
+}
+
+.bottom-38{
+  padding-bottom: 38px;
 }
 
 .bottom-30{
@@ -283,6 +303,21 @@ p{
   padding-bottom: 25px;
 }
 
+.no-bottom{
+  margin-bottom: 0;
+}
+
+.right-10{
+  padding-right: 10px;
+}
+
+.right-20{
+  padding-right: 20px;
+}
+
+.right-24{
+  padding-right: 24px;
+}
 
 .left-200{
   margin-left: 200px;
@@ -311,6 +346,10 @@ p{
       float: none;
     }
   }
+}
+
+.right{
+  float: right;
 }
 
 .letter-spacing{
@@ -370,6 +409,14 @@ p, li, a {
 
   &__50{
   width: 50%;
+  }
+
+  &__55{
+    width: 55%;
+  }
+
+  &__45{
+    width: 45%;
   }
 
   &__75{
@@ -538,11 +585,15 @@ p, li, a {
 
 
 .hr{
-  border-bottom: 1px solid #fff;
-  width: 23%;
-  margin-left: -15px;
-}
+   border-bottom: 1px solid #fff;
+   width: 23%;
+   margin-left: -15px;
+ }
 
+.hr-2 {
+  border-bottom: 2px solid #fff;
+  width: 90%;
+}
 .white-button{
   background-color: fff;
   width: 43%;
@@ -600,10 +651,25 @@ p, li, a {
     background: url(../images/p2-bg.jpg);
   }
 
+  &__3rd{
+    background: url(../images/p3-bg.jpg);
+  }
+
+  &__4th{
+    background: url(../images/p4-bg.jpg);
+  }
+
+
 
   &__title{
     font-size: 53px;
     color: #fff;
+    font-weight: 500;
+  }
+
+  &__title2{
+    font-size: 34px;
+    color: white;
     font-weight: 500;
   }
 
@@ -613,13 +679,18 @@ p, li, a {
     font-weight: 400;
   }
 
+  &__date3{
+    font-size: 16px;
+    color: white;
+    font-weight: 500;
+  }
+
   &__comment{
 
     &--ic{
       float: left;
       margin-right: 13px;
     }
-
     p{
       float: left;
       color: #fff;
@@ -650,5 +721,7 @@ h1, h2 {
 p, ul, h1 {
   margin: 0 0 1rem 0;
 }
+
+
 
 
