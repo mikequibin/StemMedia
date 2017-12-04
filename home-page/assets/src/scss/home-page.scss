@@ -418,6 +418,7 @@ p, li, a {
   text-shadow: 3px 1px 0px #000000;
 }
 
+
 .decoration-stem{
   text-decoration: none;
   text-shadow: 4px 2px 0 #000;
@@ -448,18 +449,6 @@ p, li, a {
 
 .row{
   padding-bottom: 1.875rem;
-
-  &__50{
-  width: 50%;
-  }
-
-  &__55{
-    width: 55%;
-  }
-
-  &__45{
-    width: 45%;
-  }
 
   &__75{
     width: 75%;
@@ -497,6 +486,22 @@ p, li, a {
     }
   }
 
+  &__55{
+    width: 55%;
+  }
+
+  &__50{
+  width: 50%;
+  }
+
+  &__45{
+    width: 45%;
+  }
+
+  &__33{
+    width: 33%;
+  }
+
   &__25{
     width: 25%;
 
@@ -514,34 +519,6 @@ p, li, a {
         margin-bottom: 3.12rem;
       }
     }
-
-    &--nobg{
-      padding: 0px;
-      padding: 0 1.87rem;
-
-      @media (max-width:1150px) {
-        width: 80%;
-        margin: 0 auto;
-        padding-top: 2.18rem;
-        padding-bottom: 2.18rem;
-      }
-    }
-
-    &--bluebg{
-      background-color: #234769;
-      margin: 5px;
-
-      @media (max-width:1150px) {
-        width: 45%;
-        padding-bottom: 1.56rem;
-        margin: 0 auto;
-      }
-
-      @media (max-width:600px) {
-        width: 65%;
-      }
-    }
-
   }
 }
 
@@ -552,7 +529,7 @@ p, li, a {
 }
 
 .text-container{
-  max-width: 870px;
+  max-width: 1060px;
   width: auto;
   margin: 0 auto;
 }
@@ -636,6 +613,13 @@ p, li, a {
   border-bottom: 2px solid #fff;
   width: 90%;
 }
+
+.hr-3 {
+  border-bottom: 2px solid #233b67;
+  width: 27%;
+  margin: 0 auto;
+}
+
 .white-button{
   background-color: fff;
   width: 43%;
@@ -802,7 +786,7 @@ p, ul, h1 {
     padding-top: 80px;
     text-align: center;
     color: #fff;
-    font-weight: 400;
+    font-weight: 500;
   }
 
   &__subheadline{
@@ -810,4 +794,56 @@ p, ul, h1 {
     color: #fff;
     text-align: center;
   }
+}
+
+.box-white{
+  background-color: #fff;
+  padding-top: 25px;
+  padding-bottom: 45px;
+  border-radius: 20px;
+  margin: 90px 25px;
+
+
+  &__title{
+    font-size: 21px;
+    color: #233b67;
+    font-weight: 700;
+  }
+
+  &__list{
+    font-size: 17px;
+    font-weight: 500;
+  }
+}
+
+.service-shadow{
+  box-shadow: 2px 15px 85px #000;
+}
+
+.display-onhover{
+  display: none;
+  height: auto!important;
+}
+
+.display-onhover2{
+  display: none;
+}
+
+.display-onhover3{
+  display: none;
+}
+
+.video-production:hover .display-onhover{
+  display : block;
+  height: auto!important;
+}
+
+.branded-content:hover .display-onhover2{
+  display : block;
+  height: auto!important;
+}
+
+.live-events:hover .display-onhover3{
+  display : block;
+  height: auto!important;
 }

@@ -4,15 +4,16 @@
     <list default="true" id="65d50456-1da6-4cb9-9c12-5631d483e2bd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/css/home-page.css" afterPath="$PROJECT_DIR$/home-page/assets/src/css/home-page.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/home-page.html" afterPath="$PROJECT_DIR$/home-page/home-page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/js/home-page.js" afterPath="$PROJECT_DIR$/home-page/assets/src/js/home-page.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" afterPath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/js/home-page.min.js" afterPath="$PROJECT_DIR$/home-page/assets/js/home-page.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" afterPath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemMedia.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512360188709" ignored="false" />
-    <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512372388218" ignored="false" />
-    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512372327795" ignored="false" />
+    <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512380185123" ignored="false" />
+    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512379068064" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +33,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home-page.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="196" column="70" selection-start="10233" selection-end="10233" vertical-scroll-proportion="0.6195652">
+            <state line="195" column="85" selection-start="10325" selection-end="10325" vertical-scroll-proportion="-4.230769">
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home-page.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home-page/assets/src/js/home-page.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="0" selection-start="987" selection-end="987" vertical-scroll-proportion="0.88235295">
               <folding />
             </state>
           </provider>
@@ -44,7 +57,7 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="803" column="16" selection-start="9848" selection-end="9848" vertical-scroll-proportion="-6.4">
+            <state line="824" column="25" selection-start="9986" selection-end="9986" vertical-scroll-proportion="-7.08">
               <folding />
             </state>
           </provider>
@@ -70,6 +83,7 @@
       <list>
         <option value="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" />
         <option value="$PROJECT_DIR$/home-page/home-page.html" />
+        <option value="$PROJECT_DIR$/home-page/assets/src/js/home-page.js" />
       </list>
     </option>
   </component>
@@ -135,6 +149,94 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="home-page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home-page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home-page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home-page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StemMedia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home-page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -254,7 +356,10 @@
     <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="114" column="0" selection-start="4642" selection-end="4642" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -268,7 +373,10 @@
     <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="81" column="0" selection-start="3611" selection-end="3611" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -282,7 +390,10 @@
     <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="23" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -296,7 +407,10 @@
     <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="23" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -310,7 +424,10 @@
     <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="0" selection-start="1700" selection-end="1700" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -326,11 +443,6 @@
         <state line="7" column="45" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home-page/assets/src/js/home-page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home-page/assets/js/home-page.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -338,21 +450,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/assets/css/home-page.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="2346" selection-start="2346" selection-end="2346" vertical-scroll-proportion="0.0">
+        <state line="0" column="7425" selection-start="0" selection-end="7506" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="803" column="16" selection-start="9848" selection-end="9848" vertical-scroll-proportion="-6.4">
+        <state line="824" column="25" selection-start="9986" selection-end="9986" vertical-scroll-proportion="-7.08">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="70" selection-start="10233" selection-end="10233" vertical-scroll-proportion="0.6195652">
+        <state line="195" column="85" selection-start="10325" selection-end="10325" vertical-scroll-proportion="-4.230769">
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home-page/assets/src/js/home-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="987" selection-end="987" vertical-scroll-proportion="0.88235295">
           <folding />
         </state>
       </provider>

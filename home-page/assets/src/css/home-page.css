@@ -362,15 +362,6 @@ p, li, a {
 .row {
   padding-bottom: 1.875rem; }
 
-.row__50 {
-  width: 50%; }
-
-.row__55 {
-  width: 55%; }
-
-.row__45 {
-  width: 45%; }
-
 .row__75 {
   width: 75%; }
 
@@ -398,6 +389,18 @@ p, li, a {
   .row__75--mobile {
     width: 70%; } }
 
+.row__55 {
+  width: 55%; }
+
+.row__50 {
+  width: 50%; }
+
+.row__45 {
+  width: 45%; }
+
+.row__33 {
+  width: 33%; }
+
 .row__25 {
   width: 25%; }
 
@@ -414,38 +417,13 @@ p, li, a {
     padding-top: 0rem;
     margin-bottom: 3.12rem; } }
 
-.row__25--nobg {
-  padding: 0px;
-  padding: 0 1.87rem; }
-
-@media (max-width: 1150px) {
-  .row__25--nobg {
-    width: 80%;
-    margin: 0 auto;
-    padding-top: 2.18rem;
-    padding-bottom: 2.18rem; } }
-
-.row__25--bluebg {
-  background-color: #234769;
-  margin: 5px; }
-
-@media (max-width: 1150px) {
-  .row__25--bluebg {
-    width: 45%;
-    padding-bottom: 1.56rem;
-    margin: 0 auto; } }
-
-@media (max-width: 600px) {
-  .row__25--bluebg {
-    width: 65%; } }
-
 .wrapper {
   max-width: 1365px;
   width: auto;
   margin: 0 auto; }
 
 .text-container {
-  max-width: 870px;
+  max-width: 1060px;
   width: auto;
   margin: 0 auto; }
 
@@ -506,6 +484,11 @@ p, li, a {
 .hr-2 {
   border-bottom: 2px solid #fff;
   width: 90%; }
+
+.hr-3 {
+  border-bottom: 2px solid #233b67;
+  width: 27%;
+  margin: 0 auto; }
 
 .white-button {
   background-color: fff;
@@ -625,9 +608,50 @@ p, ul, h1 {
   padding-top: 80px;
   text-align: center;
   color: #fff;
-  font-weight: 400; }
+  font-weight: 500; }
 
 .service-header__subheadline {
   font-size: 17px;
   color: #fff;
   text-align: center; }
+
+.box-white {
+  background-color: #fff;
+  padding-top: 25px;
+  padding-bottom: 45px;
+  border-radius: 20px;
+  margin: 90px 25px; }
+
+.box-white__title {
+  font-size: 21px;
+  color: #233b67;
+  font-weight: 700; }
+
+.box-white__list {
+  font-size: 17px;
+  font-weight: 500; }
+
+.service-shadow {
+  box-shadow: 2px 15px 85px #000; }
+
+.display-onhover {
+  display: none;
+  height: auto !important; }
+
+.display-onhover2 {
+  display: none; }
+
+.display-onhover3 {
+  display: none; }
+
+.video-production:hover .display-onhover {
+  display: block;
+  height: auto !important; }
+
+.branded-content:hover .display-onhover2 {
+  display: block;
+  height: auto !important; }
+
+.live-events:hover .display-onhover3 {
+  display: block;
+  height: auto !important; }
