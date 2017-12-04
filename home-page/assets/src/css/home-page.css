@@ -282,7 +282,8 @@ p {
   padding-bottom: 25px; }
 
 .no-bottom {
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  padding-bottom: 0 !important; }
 
 .right-10 {
   padding-right: 10px; }
@@ -424,6 +425,11 @@ p, li, a {
 
 .text-container {
   max-width: 1060px;
+  width: auto;
+  margin: 0 auto; }
+
+.text-container2 {
+  max-width: 1230px;
   width: auto;
   margin: 0 auto; }
 
@@ -655,3 +661,14 @@ p, ul, h1 {
 .live-events:hover .display-onhover3 {
   display: block;
   height: auto !important; }
+
+.wehelp-header__headline {
+  padding-top: 80px;
+  text-align: center;
+  color: #000000;
+  font-weight: 500; }
+
+.wehelp-header__subheadline {
+  font-size: 17px;
+  color: #000000;
+  text-align: center; }
