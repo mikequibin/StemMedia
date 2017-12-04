@@ -56,12 +56,13 @@ h1, h2, h3, h4, h5 {
 
 .header__navbar--submit {
   float: left;
-  margin-left: 30px; }
+  margin-left: 30px;
+  margin-top: -16px; }
 
 .header__navbar--search {
   float: left;
   margin-left: 20px;
-  margin-top: -7px; }
+  margin-top: -20px; }
 
 @media (max-width: 1150px) {
   .header {
@@ -616,3 +617,17 @@ h1, h2 {
 
 p, ul, h1 {
   margin: 0 0 1rem 0; }
+
+.service-banner {
+  background: url("../images/ourservices-banner.jpg"); }
+
+.service-header__headline {
+  padding-top: 80px;
+  text-align: center;
+  color: #fff;
+  font-weight: 400; }
+
+.service-header__subheadline {
+  font-size: 17px;
+  color: #fff;
+  text-align: center; }

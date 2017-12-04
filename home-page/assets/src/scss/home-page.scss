@@ -64,12 +64,13 @@ h1, h2, h3, h4, h5{
     &--submit{
       float: left;
       margin-left: 30px;
+      margin-top: -16px;
     }
 
     &--search{
       float: left;
       margin-left: 20px;
-      margin-top: -7px;
+      margin-top: -20px;
     }
   }
 
@@ -789,3 +790,24 @@ p, ul, h1 {
 
 
 
+/* Our Services */
+
+.service-banner{
+  background: url("../images/ourservices-banner.jpg");
+}
+
+.service-header{
+
+  &__headline{
+    padding-top: 80px;
+    text-align: center;
+    color: #fff;
+    font-weight: 400;
+  }
+
+  &__subheadline{
+    font-size: 17px;
+    color: #fff;
+    text-align: center;
+  }
+}
