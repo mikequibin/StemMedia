@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="65d50456-1da6-4cb9-9c12-5631d483e2bd" name="Default" comment="" />
+    <ignored path="StemMedia.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512369282203" ignored="false" />
+    <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512226641909" ignored="false" />
+    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512223366554" ignored="false" />
+=======
     <list default="true" id="65d50456-1da6-4cb9-9c12-5631d483e2bd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/home-page.html" afterPath="$PROJECT_DIR$/home-page/home-page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" afterPath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" />
@@ -8,9 +16,16 @@
     </list>
     <ignored path="StemMedia.iws" />
     <ignored path=".idea/workspace.xml" />
+<<<<<<< HEAD
     <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512441961479" ignored="false" />
     <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512443293986" ignored="false" />
     <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512384463418" ignored="false" />
+=======
+    <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512360188709" ignored="false" />
+    <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512381059291" ignored="false" />
+    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1512379068064" ignored="false" />
+>>>>>>> 7940514266c724789b44e36b1d141087b965d44f
+>>>>>>> 4e64cbd1701c6a5245a1338804d7200750b45e76
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +48,14 @@
       <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="218" column="25" selection-start="11513" selection-end="11513" vertical-scroll-proportion="0.2228261">
+=======
+<<<<<<< HEAD
+            <state line="137" column="52" selection-start="7030" selection-end="7030" vertical-scroll-proportion="1.6957295">
+=======
+            <state line="226" column="78" selection-start="12080" selection-end="12080" vertical-scroll-proportion="0.5072464">
+>>>>>>> 4e64cbd1701c6a5245a1338804d7200750b45e76
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -42,10 +64,31 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state line="867" column="0" selection-start="10589" selection-end="10589" vertical-scroll-proportion="-6.4">
+=======
+      <file leaf-file-name="home-page.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home-page/assets/src/js/home-page.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="44" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0">
+>>>>>>> 7940514266c724789b44e36b1d141087b965d44f
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state line="272" column="17" selection-start="3373" selection-end="3373" vertical-scroll-proportion="0.0">
+=======
+            <state line="824" column="25" selection-start="9986" selection-end="9986" vertical-scroll-proportion="-7.08">
+>>>>>>> 7940514266c724789b44e36b1d141087b965d44f
+>>>>>>> 4e64cbd1701c6a5245a1338804d7200750b45e76
               <folding />
             </state>
           </provider>
@@ -77,10 +120,17 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="x" value="-16" />
+    <option name="y" value="1" />
+    <option name="width" value="1040" />
+    <option name="height" value="784" />
+=======
     <option name="x" value="57" />
     <option name="y" value="2" />
     <option name="width" value="1314" />
     <option name="height" value="773" />
+>>>>>>> 7940514266c724789b44e36b1d141087b965d44f
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -258,14 +308,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="-16" y="1" width="1040" height="784" extended-state="1" />
+    <editor active="false" />
+=======
     <frame x="57" y="2" width="1314" height="773" extended-state="0" />
     <editor active="true" />
+>>>>>>> 7940514266c724789b44e36b1d141087b965d44f
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24960127" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29073483" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+<<<<<<< HEAD
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18609408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2859425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 7940514266c724789b44e36b1d141087b965d44f
+>>>>>>> 4e64cbd1701c6a5245a1338804d7200750b45e76
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32889584" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -445,12 +508,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/js/home-page.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="20" column="44" selection-start="823" selection-end="823" vertical-scroll-proportion="0.5882353" />
+=======
+<<<<<<< HEAD
+        <state line="272" column="17" selection-start="3373" selection-end="3373" vertical-scroll-proportion="0.0">
+=======
+        <state line="824" column="25" selection-start="9986" selection-end="9986" vertical-scroll-proportion="-7.08">
+>>>>>>> 7940514266c724789b44e36b1d141087b965d44f
+          <folding />
+        </state>
+>>>>>>> 4e64cbd1701c6a5245a1338804d7200750b45e76
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="867" column="0" selection-start="10589" selection-end="10589" vertical-scroll-proportion="-6.4">
+=======
+<<<<<<< HEAD
+        <state line="137" column="52" selection-start="7030" selection-end="7030" vertical-scroll-proportion="1.6957295">
+=======
+        <state line="20" column="44" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0">
+>>>>>>> 7940514266c724789b44e36b1d141087b965d44f
+>>>>>>> 4e64cbd1701c6a5245a1338804d7200750b45e76
           <folding />
         </state>
       </provider>
