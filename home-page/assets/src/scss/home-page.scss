@@ -347,6 +347,7 @@ p{
 
 .no-bottom{
   margin-bottom: 0;
+  padding-bottom: 0!important;
 }
 
 .right-10{
@@ -533,6 +534,13 @@ p, li, a {
   width: auto;
   margin: 0 auto;
 }
+
+.text-container2{
+  max-width: 1230px;
+  width: auto;
+  margin: 0 auto;
+}
+
 
 .checklist{
 
@@ -772,8 +780,6 @@ p, ul, h1 {
 }
 
 
-
-
 /* Our Services */
 
 .service-banner{
@@ -846,4 +852,23 @@ p, ul, h1 {
 .live-events:hover .display-onhover3{
   display : block;
   height: auto!important;
+}
+
+
+/* Who We've Helped */
+
+.wehelp-header{
+
+  &__headline{
+    padding-top: 80px;
+    text-align: center;
+    color: #000000;
+    font-weight: 500;
+  }
+
+  &__subheadline{
+    font-size: 17px;
+    color: #000000;
+    text-align: center;
+  }
 }
