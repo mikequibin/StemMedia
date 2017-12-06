@@ -517,7 +517,8 @@ p, li, a {
   background-color: fff;
   width: 43%;
   padding: 8px;
-  border-radius: 20px; }
+  border-radius: 20px;
+  cursor: pointer; }
 
 .white-button__img {
   position: absolute;
@@ -682,12 +683,12 @@ p, ul, h1 {
 .service-header__headline {
   padding-top: 80px;
   text-align: center;
-  color: #000;
+  color: #fff;
   font-weight: 500; }
 
 .service-header__subheadline {
   font-size: 17px;
-  color: #000;
+  color: #fff;
   text-align: center; }
 
 .box-white {
@@ -744,5 +745,8 @@ p, ul, h1 {
   color: #000000;
   text-align: center; }
 
-.image-hover:hover {
+.image-hover {
   -webkit-filter: grayscale(100%); }
+
+.image-hover:hover {
+  -webkit-filter: grayscale(0%); }

@@ -448,7 +448,7 @@ p, li, a {
   justify-content: space-between;
   cursor: pointer;
 
-}
+
 
 
   @media (max-width:1150px) {
@@ -463,6 +463,7 @@ p, li, a {
     margin-right: 1.25rem;
   }
 
+}
 
 .row{
   padding-bottom: 1.875rem;
@@ -967,7 +968,13 @@ p, ul, h1 {
   }
 }
 
-.image-hover:hover{
+.image-hover{
   -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
 }
+
+.image-hover:hover{
+  -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+}
+
+
 
