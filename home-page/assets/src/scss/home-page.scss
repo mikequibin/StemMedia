@@ -329,6 +329,11 @@ p{
   margin-top: -6px;
 }
 
+
+.bottom-90{
+  padding-bottom: 90px;
+}
+
 .bottom-38{
   padding-bottom: 38px;
 }
@@ -791,10 +796,14 @@ p, li, a {
 
 /* Video */
 
+.color-overlay{
+  background: url("../images/overlay-bg.png")  no-repeat center;
+  margin-top: 100px;
+  padding-bottom: 5%;
+}
+
 .video-section{
-  max-width: 1230px;
-  margin: 0 auto;
-  //background: url(../images/overlay-bg.jpg);
+  padding-bottom: 10%;
 
   &__header{
     margin: 0 7%;
@@ -812,7 +821,6 @@ p, li, a {
       color: #fff;
       float: right;
     }
-
   }
 }
 
@@ -961,3 +969,8 @@ p, ul, h1 {
     text-align: center;
   }
 }
+
+.image-hover:hover{
+  -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+}
+
