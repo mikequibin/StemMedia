@@ -442,6 +442,12 @@ p, li, a {
   display: flex;
   justify-content: space-between;
   cursor: pointer;
+}
+
+.flex-container img{
+  filter: grayscale(100%)
+  -webkit-filter: grayscale(100%)
+}
 
 
   @media (max-width:1150px) {
@@ -455,7 +461,6 @@ p, li, a {
     margin-left: 1.25rem;
     margin-right: 1.25rem;
   }
-}
 
 
 .row{
