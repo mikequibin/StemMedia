@@ -448,6 +448,8 @@ p, li, a {
   justify-content: space-between;
   cursor: pointer;
 
+}
+
 
   @media (max-width:1150px) {
     display:block;
@@ -460,7 +462,6 @@ p, li, a {
     margin-left: 1.25rem;
     margin-right: 1.25rem;
   }
-}
 
 
 .row{
@@ -660,6 +661,7 @@ p, li, a {
   width: 43%;
   padding: 8px;
   border-radius: 20px;
+  cursor: pointer;
 
   &__img{
     position: absolute;
@@ -880,13 +882,13 @@ p, ul, h1 {
   &__headline{
     padding-top: 80px;
     text-align: center;
-    color: #000;
+    color: #fff;
     font-weight: 500;
   }
 
   &__subheadline{
     font-size: 17px;
-    color: #000;
+    color: #fff;
     text-align: center;
   }
 }
