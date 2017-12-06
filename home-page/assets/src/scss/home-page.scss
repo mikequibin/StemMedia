@@ -433,6 +433,8 @@ p, li, a {
 .flex-container {
   display: flex;
   justify-content: space-between;
+  cursor: pointer;
+
 
   @media (max-width:1150px) {
     display:block;
@@ -791,13 +793,13 @@ p, ul, h1 {
   &__headline{
     padding-top: 80px;
     text-align: center;
-    color: #fff;
+    color: #000;
     font-weight: 500;
   }
 
   &__subheadline{
     font-size: 17px;
-    color: #fff;
+    color: #000;
     text-align: center;
   }
 }
@@ -844,7 +846,8 @@ p, ul, h1 {
 .video-production:hover .display-onhover{
   display : block;
   height: auto!important;
-}
+
+  }
 
 .branded-content:hover .display-onhover2{
   display : block;
