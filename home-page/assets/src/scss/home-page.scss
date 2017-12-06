@@ -447,11 +447,7 @@ p, li, a {
   display: flex;
   justify-content: space-between;
   cursor: pointer;
-}
 
-.flex-container img{
-  filter: grayscale(100%)
-  -webkit-filter: grayscale(100%)
 }
 
 
@@ -665,6 +661,7 @@ p, li, a {
   width: 43%;
   padding: 8px;
   border-radius: 20px;
+  cursor: pointer;
 
   &__img{
     position: absolute;
