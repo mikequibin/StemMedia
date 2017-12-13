@@ -560,7 +560,8 @@ p, li, a {
   margin: 0 auto;
   text-align: center;
   position: relative;
-  margin-top: -46%; }
+  margin-top: -37rem;
+  margin-left: -7rem; }
 
 @media (max-width: 1155px) {
   .blue-border {

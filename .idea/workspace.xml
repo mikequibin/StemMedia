@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65d50456-1da6-4cb9-9c12-5631d483e2bd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/css/home-page.css" afterPath="$PROJECT_DIR$/home-page/assets/src/css/home-page.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/home-page.html" afterPath="$PROJECT_DIR$/home-page/home-page.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" afterPath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" afterPath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemMedia.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1513181689516" ignored="false" />
     <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1513182178811" ignored="false" />
-    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1513182205159" ignored="false" />
+    <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1513182384905" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,7 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="269" column="20" selection-start="3367" selection-end="3367" vertical-scroll-proportion="-4.84">
+            <state line="720" column="0" selection-start="8580" selection-end="8580" vertical-scroll-proportion="-5.18">
               <folding>
                 <element signature="e#5568#6523#0" expanded="false" />
                 <element signature="e#6533#6590#0" expanded="false" />
@@ -361,7 +358,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="269" column="20" selection-start="3367" selection-end="3367" vertical-scroll-proportion="-4.84">
+        <state line="720" column="0" selection-start="8580" selection-end="8580" vertical-scroll-proportion="-5.18">
           <folding>
             <element signature="e#5568#6523#0" expanded="false" />
             <element signature="e#6533#6590#0" expanded="false" />
