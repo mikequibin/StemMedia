@@ -613,6 +613,16 @@ p, li, a {
   background-color: #faa53f;
   margin-bottom: 100px;
   margin-top: 130px;
+
+  @media (max-width:1155px) {
+    width: 100%;
+  }
+
+  @media (max-width:768px) {
+
+    margin-top: 20px;
+    margin-bottom: 0px;
+  }
 }
 
 .video-design{

@@ -480,6 +480,15 @@ p, li, a {
   margin-bottom: 100px;
   margin-top: 130px; }
 
+@media (max-width: 1155px) {
+  .orange-bg {
+    width: 100%; } }
+
+@media (max-width: 768px) {
+  .orange-bg {
+    margin-top: 20px;
+    margin-bottom: 0px; } }
+
 .video-design {
   padding-right: 27px;
   padding-top: 60px; }
