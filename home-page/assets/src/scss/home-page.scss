@@ -705,7 +705,6 @@ p, li, a {
 
 .project{
 
-  padding-left: 30px;
 
   &__1st{
   background: url(../images/p1-bg.jpg);
@@ -978,6 +977,3 @@ p, ul, h1 {
 .image-hover:hover{
   -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
 }
-
-
-
