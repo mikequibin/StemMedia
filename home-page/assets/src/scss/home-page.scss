@@ -465,6 +465,20 @@ p, li, a {
 
 }
 
+.flex-container2{
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+
+}
+
+.flex-container3{
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+
 .row{
   padding-bottom: 1.875rem;
 
@@ -614,6 +628,7 @@ p, li, a {
   margin-bottom: 100px;
   margin-top: 130px;
 
+<<<<<<< HEAD
   @media (max-width:1155px) {
     width: 100%;
   }
@@ -623,11 +638,22 @@ p, li, a {
     margin-top: 20px;
     margin-bottom: 0px;
   }
+=======
+  @media (max-width: 1155px) {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    width: 100%;
+  }
+>>>>>>> f4fe42281005c9052943632a1193855796e86479
 }
 
 .video-design{
   padding-right: 27px;
   padding-top: 60px;
+
+  @media (max-width: 1155px) {
+    display: none;
+  }
 }
 .social-media{
   float: right;
@@ -689,6 +715,10 @@ p, li, a {
   text-align: center;
   position: relative;
   margin-top: -46%;
+
+  @media (max-width: 1155px) {
+    display: none;
+  }
 }
 
 /*OUR COMMUNITY*/
@@ -704,6 +734,7 @@ p, li, a {
     text-align: center;
     color: #fff;
     font-weight: 500;
+
   }
 
   &__subheadline{
@@ -715,7 +746,6 @@ p, li, a {
 
 .project{
 
-  padding-left: 30px;
 
   &__1st{
   background: url(../images/p1-bg.jpg);
@@ -808,6 +838,8 @@ p, li, a {
   background: url("../images/overlay-bg.png")  no-repeat center;
   margin-top: 100px;
   padding-bottom: 5%;
+  padding-right: 50px;
+  padding-left: 50px;
 }
 
 .video-section{
@@ -822,6 +854,7 @@ p, li, a {
       color: #fff;
       float: left;
     }
+
 
     &--subheadline{
       font-size: 10px;
@@ -986,5 +1019,22 @@ p, ul, h1 {
   -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
 }
 
+.flex-margin0{
+  @media (max-width: 1155px) {
+    margin: 0rem;
+  }
+}
 
+.mobile-margin45{
 
+  @media (max-width: 1155px) {
+      padding-bottom: 45px;
+      padding-top: 45px;
+  }
+
+}
+.comm-header-mobile{
+  @media (max-width: 1155px){
+    margin-top: -250px;
+  }
+}
