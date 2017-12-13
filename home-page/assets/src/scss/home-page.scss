@@ -798,6 +798,8 @@ p, li, a {
   background: url("../images/overlay-bg.png")  no-repeat center;
   margin-top: 100px;
   padding-bottom: 5%;
+  padding-right: 50px;
+  padding-left: 50px;
 }
 
 .video-section{
@@ -812,6 +814,7 @@ p, li, a {
       color: #fff;
       float: left;
     }
+
 
     &--subheadline{
       font-size: 10px;

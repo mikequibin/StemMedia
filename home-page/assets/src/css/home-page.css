@@ -617,7 +617,9 @@ p, li, a {
 .color-overlay {
   background: url("../images/overlay-bg.png") no-repeat center;
   margin-top: 100px;
-  padding-bottom: 5%; }
+  padding-bottom: 5%;
+  padding-right: 50px;
+  padding-left: 50px; }
 
 .video-section {
   padding-bottom: 10%; }
