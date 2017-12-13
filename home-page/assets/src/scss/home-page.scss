@@ -733,7 +733,9 @@ p, li, a {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  padding-bottom: 5rem;
 }
+
 
 .community-header{
 
@@ -927,7 +929,10 @@ p, ul, h1 {
 /* Our Services */
 
 .service-banner{
-  background: url("../images/our-services-banner.jpg");
+  background: url("../images/our-services-banner.jpg")center 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .service-header{
