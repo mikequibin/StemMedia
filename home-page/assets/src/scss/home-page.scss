@@ -266,8 +266,8 @@ p{
   padding-top: 49%;
 }
 
-.top46-per{
-  padding-top: 46%;
+.toprem-17{
+  padding-top: 17rem;
 }
 
 .top40-per{
@@ -454,7 +454,6 @@ p, li, a {
   @media (max-width:1150px) {
     display:block;
     margin: 0 1.87rem;
-  }
 
   }
 
@@ -515,6 +514,7 @@ p, li, a {
 
       @media (max-width:1015px) {
         width: 70%;
+
 
       }
     }
@@ -646,6 +646,7 @@ p, li, a {
     margin-top: 0px;
     width: 100%;
   }
+}
 
 
 .video-design{
@@ -725,7 +726,10 @@ p, li, a {
 /*OUR COMMUNITY*/
 
 .community-banner{
-  background: url("../images/community-banner.jpg");
+  background: url("../images/community-banner.jpg") center 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .community-header{
@@ -746,6 +750,7 @@ p, li, a {
 }
 
 .project{
+  padding-left: 2rem;
 
 
   &__1st{
