@@ -270,8 +270,8 @@ p{
   padding-top: 49%;
 }
 
-.top46-per{
-  padding-top: 46%;
+.toprem-17{
+  padding-top: 17rem;
 }
 
 .top40-per{
@@ -294,8 +294,8 @@ p{
   padding-top: 20%
 }
 
-.top16-per{
-  padding-top: 16%;
+.top5rem{
+  padding-top: 5rem;
 }
 
 .bottom62-per{
@@ -309,6 +309,7 @@ p{
 .top-15{
   padding-top: 15px;
 }
+
 .top-10{
   margin-top: -14px;
 }
@@ -455,6 +456,7 @@ p, li, a {
   @media (max-width:1150px) {
     display:block;
     margin: 0 1.87rem;
+
   }
 
   &--header{
@@ -514,6 +516,7 @@ p, li, a {
 
       @media (max-width:1015px) {
         width: 70%;
+
 
       }
     }
@@ -622,12 +625,24 @@ p, li, a {
   margin-bottom: 100px;
   margin-top: 130px;
 
+
+  @media (max-width:1155px) {
+    width: 100%;
+  }
+
+  @media (max-width:768px) {
+
+    margin-top: 20px;
+    margin-bottom: 0px;
+  }
+
   @media (max-width: 1155px) {
     margin-bottom: 20px;
     margin-top: 0px;
     width: 100%;
   }
 }
+
 
 .video-design{
   padding-right: 27px;
@@ -696,7 +711,9 @@ p, li, a {
   margin: 0 auto;
   text-align: center;
   position: relative;
-  margin-top: -46%;
+  margin-top: -37rem;
+  margin-left: -7rem;
+
 
   @media (max-width: 1155px) {
     display: none;
@@ -706,8 +723,13 @@ p, li, a {
 /*OUR COMMUNITY*/
 
 .community-banner{
-  background: url("../images/community-banner.jpg");
+  background: url("../images/community-banner.jpg") center 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 5rem;
 }
+
 
 .community-header{
 
@@ -727,6 +749,7 @@ p, li, a {
 }
 
 .project{
+  padding-left: 2rem;
 
 
   &__1st{
@@ -900,7 +923,10 @@ p, ul, h1 {
 /* Our Services */
 
 .service-banner{
-  background: url("../images/our-services-banner.jpg");
+  background: url("../images/our-services-banner.jpg")center 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .service-header{
@@ -1009,18 +1035,20 @@ p, ul, h1 {
 
 .mobile-margin45{
 
-  @media (max-width: 1155px) {
+  @media (max-width: 1150px) {
       padding-bottom: 45px;
       padding-top: 45px;
   }
 
 }
 .comm-header-mobile{
-  @media (max-width: 1155px){
+
+  @media (max-width: 1150px){
     margin-top: -250px;
   }
 }
 
+<<<<<<< HEAD
 /* Footer */
 
 
@@ -1059,3 +1087,6 @@ p, ul, h1 {
 .txt-2:hover {
   color: #faa53f;
 }
+=======
+
+>>>>>>> 31f6ca6bae18a37fcb919bf70705471cd51940cd
