@@ -199,6 +199,10 @@ p{
   color: #faa53f;
 }
 
+.text-blue{
+  color: #242d3c;
+}
+
 .margin-center{
   @media (max-width:1150px) {
     margin: 0 auto;
@@ -432,7 +436,6 @@ p, li, a {
   text-shadow: 3px 1px 0px #000000;
 }
 
-
 .decoration-stem{
   text-decoration: none;
   text-shadow: 4px 2px 0 #000;
@@ -447,8 +450,6 @@ p, li, a {
   display: flex;
   justify-content: space-between;
   cursor: pointer;
-
-
 
 
   @media (max-width:1150px) {
@@ -572,9 +573,6 @@ p, li, a {
   margin: 0 auto;
 }
 
-
-
-
 .checklist{
 
   &__item{
@@ -594,7 +592,6 @@ p, li, a {
   padding-top: 20px;
 }
 
-
 .banner{
 
   &__heading{
@@ -608,9 +605,6 @@ p, li, a {
     padding-bottom: 10px;
   }
 }
-
-
-
 
 .txt:hover {
   padding-bottom: 5px;
@@ -1025,4 +1019,43 @@ p, ul, h1 {
   @media (max-width: 1155px){
     margin-top: -250px;
   }
+}
+
+/* Footer */
+
+
+.footer{
+  background: url("../images/homepage-banner.jpg") center 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  &__logo{
+
+  }
+
+  &__navbar{
+    margin-left: 40%;
+
+    &--submit{
+      float: left;
+      margin-left: 30px;
+      margin-top: -16px;
+    }
+
+    &--search{
+      float: left;
+      margin-left: 20px;
+      margin-top: -20px;
+    }
+  }
+
+  @media (max-width:1150px) {
+    padding-top: 0.62rem!important;
+    padding-bottom: 0.62rem!important;
+  }
+}
+
+
+.txt-2:hover {
+  color: #faa53f;
 }
