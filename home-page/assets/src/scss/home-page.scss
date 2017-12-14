@@ -384,7 +384,11 @@ p{
   margin-left: 200px;
 }
 .left-90{
-  margin-left: 5.68rem;
+   margin-left: 5.68rem;
+ }
+
+.left-23{
+  margin-left: 23px
 }
 
 .left-20{
@@ -416,6 +420,7 @@ p{
 .letter-spacing{
   letter-spacing: 0.12rem;
 }
+
 
 body {
   font-size: 0.875rem;
@@ -681,14 +686,20 @@ p, li, a {
 }
 
 .hr-4 {
-  margin-top: 1.68rem;
-  border-bottom: 0.12rem solid #fff;
-  width: 3%;
-  float: left;
-  margin-right: 0.62rem;
+    margin-top: 1.68rem;
+    border-bottom: 0.12rem solid #fff;
+    width: 3%;
+    float: left;
+    margin-right: 0.62rem;
+  }
+
+.hr-5 {
+  border-bottom: 2px solid #b1b1b1;
+  width: 96%;
+  margin: auto;
+  margin-bottom: 40px;
+  margin-top: -10px;
 }
-
-
 
 .white-button{
   background-color: fff;
@@ -1048,7 +1059,7 @@ p, ul, h1 {
   }
 }
 
-<<<<<<< HEAD
+
 /* Footer */
 
 
@@ -1062,7 +1073,7 @@ p, ul, h1 {
   }
 
   &__navbar{
-    margin-left: 40%;
+    margin-left: 28%;
 
     &--submit{
       float: left;
@@ -1087,6 +1098,4 @@ p, ul, h1 {
 .txt-2:hover {
   color: #faa53f;
 }
-=======
 
->>>>>>> 31f6ca6bae18a37fcb919bf70705471cd51940cd

@@ -312,6 +312,9 @@ p {
 .left-90 {
   margin-left: 5.68rem; }
 
+.left-23 {
+  margin-left: 23px; }
+
 .left-20 {
   margin-left: 1.25rem; }
 
@@ -544,6 +547,13 @@ p, li, a {
   width: 3%;
   float: left;
   margin-right: 0.62rem; }
+
+.hr-5 {
+  border-bottom: 2px solid #b1b1b1;
+  width: 96%;
+  margin: auto;
+  margin-bottom: 40px;
+  margin-top: -10px; }
 
 .white-button {
   background-color: fff;
@@ -817,7 +827,7 @@ p, ul, h1 {
   background-size: cover; }
 
 .footer__navbar {
-  margin-left: 40%; }
+  margin-left: 28%; }
 
 .footer__navbar--submit {
   float: left;
