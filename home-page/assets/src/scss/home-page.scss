@@ -199,6 +199,10 @@ p{
   color: #faa53f;
 }
 
+.text-blue{
+  color: #242d3c;
+}
+
 .margin-center{
   @media (max-width:1150px) {
     margin: 0 auto;
@@ -433,7 +437,6 @@ p, li, a {
   text-shadow: 0.18rem 0.06rem 0px #000000;
 }
 
-
 .decoration-stem{
   text-decoration: none;
   text-shadow: 0.25rem 0.12rem 0 #000;
@@ -448,8 +451,6 @@ p, li, a {
   display: flex;
   justify-content: space-between;
   cursor: pointer;
-
-
 
 
   @media (max-width:1150px) {
@@ -575,9 +576,6 @@ p, li, a {
   margin: 0 auto;
 }
 
-
-
-
 .checklist{
 
   &__item{
@@ -597,7 +595,6 @@ p, li, a {
   padding-top: 1.25rem;
 }
 
-
 .banner{
 
   &__heading{
@@ -611,9 +608,6 @@ p, li, a {
     padding-bottom: 0.62rem;
   }
 }
-
-
-
 
 .txt:hover {
   padding-bottom: 0.31rem;
@@ -1054,4 +1048,45 @@ p, ul, h1 {
   }
 }
 
+<<<<<<< HEAD
+/* Footer */
 
+
+.footer{
+  background: url("../images/homepage-banner.jpg") center 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  &__logo{
+
+  }
+
+  &__navbar{
+    margin-left: 40%;
+
+    &--submit{
+      float: left;
+      margin-left: 30px;
+      margin-top: -16px;
+    }
+
+    &--search{
+      float: left;
+      margin-left: 20px;
+      margin-top: -20px;
+    }
+  }
+
+  @media (max-width:1150px) {
+    padding-top: 0.62rem!important;
+    padding-bottom: 0.62rem!important;
+  }
+}
+
+
+.txt-2:hover {
+  color: #faa53f;
+}
+=======
+
+>>>>>>> 31f6ca6bae18a37fcb919bf70705471cd51940cd
