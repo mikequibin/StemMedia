@@ -389,6 +389,11 @@ p, li, a {
   justify-content: space-between;
   cursor: pointer; }
 
+.flex-container-comm {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer; }
+
 .row {
   padding-bottom: 1.875rem; }
 
@@ -602,19 +607,23 @@ p, li, a {
   text-align: center; }
 
 .project {
-  padding-left: 2rem; }
+  padding: 1rem; }
 
 .project__1st {
-  background: url(../images/p1-bg.jpg); }
+  background: url(../images/p1-bg.jpg);
+  height: 684px; }
 
 .project__2nd {
-  background: url(../images/p2-bg.jpg); }
+  background: url(../images/p2-bg.jpg);
+  height: 342px; }
 
 .project__3rd {
-  background: url(../images/p3-bg.jpg); }
+  background: url(../images/p3-bg.jpg);
+  height: 342px; }
 
 .project__4th {
-  background: url(../images/p4-bg.jpg); }
+  background: url(../images/p4-bg.jpg);
+  height: 342px; }
 
 .project__5th {
   background: url(../images/p5-bg.jpg); }

@@ -490,6 +490,11 @@ p, li, a {
   cursor: pointer;
 }
 
+.flex-container-comm{
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
 
 .row{
   padding-bottom: 1.875rem;
@@ -764,23 +769,27 @@ p, li, a {
 }
 
 .project{
-  padding-left: 2rem;
+  padding: 1rem;
 
 
   &__1st{
   background: url(../images/p1-bg.jpg);
+  height: 684px;
   }
 
   &__2nd{
     background: url(../images/p2-bg.jpg);
+    height: 342px;
   }
 
   &__3rd{
     background: url(../images/p3-bg.jpg);
+    height: 342px;
   }
 
   &__4th{
     background: url(../images/p4-bg.jpg);
+    height: 342px;
   }
 
   &__5th{
@@ -794,7 +803,6 @@ p, li, a {
   &__7th{
     background: url(../images/p7-bg.jpg);
   }
-
 
   &__title{
     font-size: 3.31rem;
