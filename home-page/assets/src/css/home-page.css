@@ -175,6 +175,9 @@ p {
 .text-blue {
   color: #242d3c; }
 
+.text-gray {
+  color: #9d9d9d; }
+
 @media (max-width: 1150px) {
   .margin-center {
     margin: 0 auto; } }
@@ -552,7 +555,7 @@ p, li, a {
   border-bottom: 2px solid #b1b1b1;
   width: 96%;
   margin: auto;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   margin-top: -10px; }
 
 .white-button {
@@ -846,3 +849,9 @@ p, ul, h1 {
 
 .txt-2:hover {
   color: #faa53f; }
+
+.copyright {
+  font-size: 12px; }
+
+.footer-icons {
+  margin-left: 75%; }
