@@ -63,13 +63,13 @@ h1, h2, h3, h4, h5{
 
     &--submit{
       float: left;
-      margin-left: 30px;
+      margin-left: 1.87rem;
       margin-top: -16px;
     }
 
     &--search{
       float: left;
-      margin-left: 20px;
+      margin-left: 1.25rem;
       margin-top: -20px;
     }
   }
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5{
 
 
 h1{
-  font-size: 50px;
+  font-size: 3.12rem;
 
   @media (max-width:870px) {
     margin: 0 1.25rem;
@@ -94,7 +94,7 @@ h1{
 }
 
 h2{
-  font-size: 61px;
+  font-size: 3.81rem;
 
   @media (max-width:870px) {
     margin: 0 1.25rem
@@ -172,7 +172,7 @@ p{
 }
 
 .font-40{
-  font-size: 40px;
+  font-size: 2.5rem;
 }
 
 .text-center {
@@ -218,19 +218,19 @@ p{
 }
 
 .top-80{
-  padding-top: 80px;
+  padding-top: 5rem;
 }
 
 .top-70{
-  padding-top: 70px;
+  padding-top: 4.37rem;
 }
 
 .top-60{
-   padding-top: 60px;
+   padding-top: 3.75rem;
  }
 
 .top-55{
-  padding-top: 55px;
+  padding-top: 3.43rem;
 }
 
 .top-45{
@@ -238,19 +238,19 @@ p{
 }
 
 .top-40{
-  padding-top: 40px;
+  padding-top: 2.5rem;
 }
 
 .top-50{
-  padding-top: 50px;
+  padding-top: 3.12rem;
 }
 
 .top-30{
-  padding-top: 30px;
+  padding-top: 1.87rem;
 }
 
 .top-20{
-  padding-top: 20px;
+  padding-top: 1.25rem;
 }
 
 
@@ -259,7 +259,7 @@ p{
 }
 
 .top-25{
-  padding-top: 25px;
+  padding-top: 1.56rem;
 }
 
 .top49-per{
@@ -303,7 +303,7 @@ p{
 }
 
 .top-15{
-  padding-top: 15px;
+  padding-top: 0.93rem;
 }
 
 .top-10{
@@ -311,11 +311,11 @@ p{
 }
 
 .top-4{
-  padding-top: 4px;
+  padding-top: 0.25rem;
 }
 
 .mtop-36{
-  margin-top: 36px;
+  margin-top: 2.25rem;
 }
 
 .mtop20{
@@ -323,7 +323,7 @@ p{
 }
 
 .mtop-20{
-  margin-top: 20px;
+  margin-top: 1.25rem;
 }
 
 .mtop-6{
@@ -332,31 +332,31 @@ p{
 
 
 .bottom-90{
-  padding-bottom: 90px;
+  padding-bottom: 5.68rem;
 }
 
 .bottom-38{
-  padding-bottom: 38px;
+  padding-bottom: 2.37rem;
 }
 
 .bottom-30{
-  padding-bottom: 30px;
+  padding-bottom: 1.87rem;
 }
 
 .bottom-20{
-  padding-bottom: 20px;
+  padding-bottom: 1.25rem;
 }
 
 .bottom-15{
-  padding-bottom: 10px;
+  padding-bottom: 0.62rem;
 }
 
 .bottom-10{
-  padding-bottom: 10px;
+  padding-bottom: 0.62rem;
 }
 
 .bottom-25{
-  padding-bottom: 25px;
+  padding-bottom: 1.56rem;
 }
 
 .no-bottom{
@@ -365,26 +365,26 @@ p{
 }
 
 .right-10{
-  padding-right: 10px;
+  padding-right: 0.62rem;
 }
 
 .right-20{
-  padding-right: 20px;
+  padding-right: 1.25rem;
 }
 
 .right-24{
-  padding-right: 24px;
+  padding-right: 1.5rem;
 }
 
 .left-200{
   margin-left: 200px;
 }
 .left-90{
-  margin-left: 90px;
+  margin-left: 5.68rem;
 }
 
 .left-20{
-  margin-left: 20px;
+  margin-left: 1.25rem;
 }
 
 .height-342{
@@ -410,7 +410,7 @@ p{
 }
 
 .letter-spacing{
-  letter-spacing: 2px;
+  letter-spacing: 0.12rem;
 }
 
 body {
@@ -425,18 +425,18 @@ p, li, a {
 
 .decoration{
   text-decoration: none;
-  text-shadow: 2px 1px 0px #000000;
+  text-shadow: 0.12rem 0.06rem 0px #000000;
   }
 
 .decoration-dark{
   text-decoration: none;
-  text-shadow: 3px 1px 0px #000000;
+  text-shadow: 0.18rem 0.06rem 0px #000000;
 }
 
 
 .decoration-stem{
   text-decoration: none;
-  text-shadow: 4px 2px 0 #000;
+  text-shadow: 0.25rem 0.12rem 0 #000;
 }
 
 .decoration-none{
@@ -491,7 +491,7 @@ p, li, a {
       width: 90%;
       text-align: center;
       margin: 0 auto;
-      padding-bottom: 5px;
+      padding-bottom: 0.31rem;
     }
 
     @media (max-width:815px) {
@@ -593,8 +593,8 @@ p, li, a {
 }
 
 .stem-logo{
-  padding-left: 30px;
-  padding-top: 20px;
+  padding-left: 1.87rem;
+  padding-top: 1.25rem;
 }
 
 
@@ -602,13 +602,13 @@ p, li, a {
 
   &__heading{
     color: #fff;
-    margin: 140px 10px 205px 10px;
+    margin: 140px 0.62rem 205px 0.62rem;
   }
 
   &__down-arrow{
     margin: 0 auto;
-    width: 70px;
-    padding-bottom: 10px;
+    width: 4.37rem;
+    padding-bottom: 0.62rem;
   }
 }
 
@@ -616,14 +616,14 @@ p, li, a {
 
 
 .txt:hover {
-  padding-bottom: 5px;
-  border-bottom: 4px solid #faa53f;
+  padding-bottom: 0.31rem;
+  border-bottom: 0.25rem solid #faa53f;
 }
 
 .orange-ic{
   background-color: #faa53f;
-  border-radius: 25px;
-  padding: 13px;
+  border-radius: 1.56rem;
+  padding: 0.81rem;
 }
 
 .orange-bg{
@@ -638,12 +638,12 @@ p, li, a {
 
   @media (max-width:768px) {
 
-    margin-top: 20px;
+    margin-top: 1.25rem;
     margin-bottom: 0px;
   }
 
   @media (max-width: 1155px) {
-    margin-bottom: 20px;
+    margin-bottom: 1.25rem;
     margin-top: 0px;
     width: 100%;
   }
@@ -651,8 +651,8 @@ p, li, a {
 
 
 .video-design{
-  padding-right: 27px;
-  padding-top: 60px;
+  padding-right: 1.68rem;
+  padding-top: 3.75rem;
 
   @media (max-width: 1155px) {
     display: none;
@@ -670,28 +670,28 @@ p, li, a {
 
 
 .hr{
-   border-bottom: 1px solid #fff;
+   border-bottom: 0.06rem solid #fff;
    width: 23%;
    margin-left: -15px;
  }
 
 .hr-2 {
-  border-bottom: 2px solid #fff;
+  border-bottom: 0.12rem solid #fff;
   width: 90%;
 }
 
 .hr-3 {
-  border-bottom: 2px solid #233b67;
+  border-bottom: 0.12rem solid #233b67;
   width: 27%;
   margin: 0 auto;
 }
 
 .hr-4 {
-  margin-top: 26px;
-  border-bottom: 2px solid #fff;
+  margin-top: 1.68rem;
+  border-bottom: 0.12rem solid #fff;
   width: 3%;
   float: left;
-  margin-right: 10px;
+  margin-right: 0.62rem;
 }
 
 
@@ -699,17 +699,17 @@ p, li, a {
 .white-button{
   background-color: fff;
   width: 43%;
-  padding: 8px;
-  border-radius: 20px;
+  padding: 0.5rem;
+  border-radius: 1.25rem;
   cursor: pointer;
 
   &__img{
     position: absolute;
-    padding-left:20px;
+    padding-left:1.25rem;
   }
 
   &__text{
-    margin-left: 50px;
+    margin-left: 3.12rem;
   }
 }
 
@@ -740,7 +740,7 @@ p, li, a {
 .community-header{
 
   &__headline{
-    padding-top: 80px;
+    padding-top: 5rem;
     text-align: center;
     color: #fff;
     font-weight: 500;
@@ -748,7 +748,7 @@ p, li, a {
   }
 
   &__subheadline{
-    font-size: 17px;
+    font-size: 1.06rem;
     color: #fff;
     text-align: center;
   }
@@ -788,37 +788,37 @@ p, li, a {
 
 
   &__title{
-    font-size: 53px;
+    font-size: 3.31rem;
     color: #fff;
     font-weight: 500;
   }
 
   &__title2{
-    font-size: 34px;
+    font-size: 2.12rem;
     color: white;
     font-weight: 500;
   }
 
   &__title6{
-    font-size: 54px;
+    font-size: 3.37rem;
     color: white;
     font-weight: 500;
   }
 
   &__date{
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #fff;
     font-weight: 400;
   }
 
   &__date3{
-    font-size: 16px;
+    font-size: 1rem;
     color: white;
     font-weight: 500;
   }
 
   &__date6{
-    font-size: 24px;
+    font-size: 1.5rem;
     color: white;
     font-weight: 500;
   }
@@ -827,17 +827,17 @@ p, li, a {
 
     &--ic{
       float: left;
-      margin-right: 13px;
+      margin-right: 0.81rem;
     }
     p{
       float: left;
       color: #fff;
-      font-size: 23px;
+      font-size: 1.43rem;
     }
 
     &--avatar{
       float: right;
-      padding-right: 20px;
+      padding-right: 1.25rem;
     }
   }
 }
@@ -849,8 +849,8 @@ p, li, a {
   background: url("../images/overlay-bg.png")  no-repeat center;
   margin-top: 100px;
   padding-bottom: 5%;
-  padding-right: 50px;
-  padding-left: 50px;
+  padding-right: 3.12rem;
+  padding-left: 3.12rem;
 }
 
 .video-section{
@@ -860,7 +860,7 @@ p, li, a {
     margin: 0 7%;
 
     &--headline{
-      font-size: 35px;
+      font-size: 2.18rem;
       font-weight: 400;
       color: #fff;
       float: left;
@@ -868,7 +868,7 @@ p, li, a {
 
 
     &--subheadline{
-      font-size: 10px;
+      font-size: 0.62rem;
       font-weight: 700;
       color: #fff;
       float: right;
@@ -877,9 +877,9 @@ p, li, a {
 }
 
 .orange-button{
-  padding: 10px;
+  padding: 0.62rem;
   background-color: #faa53f;
-  border-radius: 20px;
+  border-radius: 1.25rem;
   text-decoration: none;
   color: #fff;
   font-weight: 500;
@@ -912,7 +912,7 @@ p, ul, h1 {
 .videoWrapper{
   position: relative;
   padding-bottom: 52.25%;
-  padding-top: 25px;
+  padding-top: 1.56rem;
   height: 0;
 
   iframe{
@@ -938,14 +938,14 @@ p, ul, h1 {
 .service-header{
 
   &__headline{
-    padding-top: 80px;
+    padding-top: 5rem;
     text-align: center;
     color: #fff;
     font-weight: 500;
   }
 
   &__subheadline{
-    font-size: 17px;
+    font-size: 1.06rem;
     color: #fff;
     text-align: center;
   }
@@ -953,26 +953,26 @@ p, ul, h1 {
 
 .box-white{
   background-color: #fff;
-  padding-top: 25px;
+  padding-top: 1.56rem;
   padding-bottom: 45px;
-  border-radius: 20px;
-  margin: 90px 25px;
+  border-radius: 1.25rem;
+  margin: 5.68rem 1.56rem;
 
 
   &__title{
-    font-size: 21px;
+    font-size: 1.31rem;
     color: #233b67;
     font-weight: 700;
   }
 
   &__list{
-    font-size: 17px;
+    font-size: 1.06rem;
     font-weight: 500;
   }
 }
 
 .service-shadow{
-  box-shadow: 2px 15px 85px #000;
+  box-shadow: 0.12rem 0.93rem 5.31rem #000;
 }
 
 .display-onhover{
@@ -1012,14 +1012,14 @@ p, ul, h1 {
 .wehelp-header{
 
   &__headline{
-    padding-top: 80px;
+    padding-top: 5rem;
     text-align: center;
     color: #000000;
     font-weight: 500;
   }
 
   &__subheadline{
-    font-size: 17px;
+    font-size: 1.06rem;
     color: #000000;
     text-align: center;
   }
