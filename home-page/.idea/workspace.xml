@@ -4,9 +4,9 @@
     <list default="true" id="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" name="Default" comment="" />
     <ignored path="home-page.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/home-page.scss" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513228942979" ignored="false" />
-    <file path="/home-page.html" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513228907047" ignored="false" />
-    <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513230011487" ignored="false" />
+    <file path="/home-page.scss" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513236035625" ignored="false" />
+    <file path="/home-page.html" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513237029411" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513237065707" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home-page.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="56" selection-start="5387" selection-end="5387" vertical-scroll-proportion="-4.509804">
+            <state line="182" column="22" selection-start="10019" selection-end="10019" vertical-scroll-proportion="0.6660448">
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -38,10 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home-page.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="791" column="18" selection-start="9908" selection-end="9908" vertical-scroll-proportion="0.71652174">
+            <state line="844" column="34" selection-start="10783" selection-end="10783" vertical-scroll-proportion="-9.0">
               <folding />
             </state>
           </provider>
@@ -57,8 +57,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/home-page.html" />
         <option value="$PROJECT_DIR$/assets/src/scss/home-page.scss" />
+        <option value="$PROJECT_DIR$/home-page.html" />
       </list>
     </option>
   </component>
@@ -359,20 +359,20 @@
         <state line="0" column="84" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="844" column="34" selection-start="10783" selection-end="10783" vertical-scroll-proportion="-9.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="56" selection-start="5387" selection-end="5387" vertical-scroll-proportion="-4.509804">
+        <state line="182" column="22" selection-start="10019" selection-end="10019" vertical-scroll-proportion="0.6660448">
           <folding>
             <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="791" column="18" selection-start="9908" selection-end="9908" vertical-scroll-proportion="0.71652174">
-          <folding />
         </state>
       </provider>
     </entry>
