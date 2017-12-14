@@ -425,6 +425,7 @@ p{
   letter-spacing: 0.12rem;
 }
 
+
 body {
   font-size: 0.875rem;
   line-height: 1.42857143;
@@ -741,7 +742,7 @@ p, li, a {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 5rem;
+  padding-bottom: 2rem;
 }
 
 
@@ -862,7 +863,6 @@ p, li, a {
 }
 
 .video-section{
-  padding-bottom: 10%;
 
   &__header{
     margin: 0 7%;

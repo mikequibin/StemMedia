@@ -588,7 +588,7 @@ p, li, a {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 5rem; }
+  padding-bottom: 2rem; }
 
 .community-header__headline {
   padding-top: 5rem;
@@ -674,9 +674,6 @@ p, li, a {
   padding-bottom: 5%;
   padding-right: 3.12rem;
   padding-left: 3.12rem; }
-
-.video-section {
-  padding-bottom: 10%; }
 
 .video-section__header {
   margin: 0 7%; }
