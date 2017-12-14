@@ -11,13 +11,11 @@
     <file path="/Dummy.txt" changelist="717690a9-7019-4802-94f6-08ade99846f4" time="1513177213534" ignored="false" />
 =======
     <list default="true" id="65d50456-1da6-4cb9-9c12-5631d483e2bd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/home-page.html" afterPath="$PROJECT_DIR$/home-page/home-page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" afterPath="$PROJECT_DIR$/home-page/assets/css/home-page.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" afterPath="$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="StemMedia.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1513181689516" ignored="false" />
+    <file path="/Dummy.txt" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1513220319373" ignored="false" />
     <file path="/home-page.html" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1513183020600" ignored="false" />
     <file path="/home-page.scss" changelist="65d50456-1da6-4cb9-9c12-5631d483e2bd" time="1513182946000" ignored="false" />
 >>>>>>> 31f6ca6bae18a37fcb919bf70705471cd51940cd
@@ -43,7 +41,7 @@
       <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="250" column="65" selection-start="14015" selection-end="14020" vertical-scroll-proportion="0.17021276">
+            <state line="250" column="65" selection-start="14015" selection-end="14020" vertical-scroll-proportion="0.030195381">
               <folding />
             </state>
           </provider>
@@ -52,14 +50,8 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1027" column="5" selection-start="12725" selection-end="12729" vertical-scroll-proportion="-3.14">
-              <folding>
-                <element signature="e#5568#6523#0" expanded="false" />
-                <element signature="e#6533#6590#0" expanded="false" />
-                <element signature="e#6682#6739#0" expanded="false" />
-                <element signature="e#7215#7277#0" expanded="false" />
-                <element signature="e#7289#7361#0" expanded="false" />
-              </folding>
+            <state line="1027" column="5" selection-start="12725" selection-end="12729" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -91,6 +83,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="x" value="56" />
     <option name="y" value="-8" />
     <option name="width" value="1318" />
@@ -101,6 +94,12 @@
     <option name="width" value="1122" />
     <option name="height" value="716" />
 >>>>>>> 31f6ca6bae18a37fcb919bf70705471cd51940cd
+=======
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
+>>>>>>> bcbe504bbafc805acd0d0393b36f380721472363
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -128,6 +127,12 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Default" />
+        <subPane subId="Project Files" />
+        <subPane subId="Changed Files" />
+        <subPane subId="All" />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -138,17 +143,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Default" />
-        <subPane subId="Project Files" />
-        <subPane subId="Changed Files" />
-        <subPane subId="All" />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/home-page" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
@@ -172,12 +171,17 @@
   </component>
   <component name="ToolWindowManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <frame x="56" y="-8" width="1318" height="784" extended-state="6" />
     <editor active="false" />
 =======
     <frame x="248" y="10" width="1122" height="716" extended-state="0" />
     <editor active="true" />
 >>>>>>> 31f6ca6bae18a37fcb919bf70705471cd51940cd
+=======
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="false" />
+>>>>>>> bcbe504bbafc805acd0d0393b36f380721472363
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -187,8 +191,12 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26194268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 =======
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24920382" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18301886" sideWeight="0.9904398" order="0" side_tool="false" content_ui="combo" />
 >>>>>>> 31f6ca6bae18a37fcb919bf70705471cd51940cd
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15739268" sideWeight="0.9904398" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> bcbe504bbafc805acd0d0393b36f380721472363
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882166" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -274,13 +282,7 @@
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="298" column="13" selection-start="3701" selection-end="3701" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#5568#6523#0" expanded="false" />
-            <element signature="e#6533#6590#0" expanded="false" />
-            <element signature="e#6682#6739#0" expanded="false" />
-            <element signature="e#7215#7277#0" expanded="false" />
-            <element signature="e#7289#7361#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -294,13 +296,7 @@
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="469" column="22" selection-start="6254" selection-end="6254" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#5568#6523#0" expanded="false" />
-            <element signature="e#6533#6590#0" expanded="false" />
-            <element signature="e#6682#6739#0" expanded="false" />
-            <element signature="e#7215#7277#0" expanded="false" />
-            <element signature="e#7289#7361#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -314,13 +310,7 @@
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="216" column="0" selection-start="2902" selection-end="2902" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#5568#6523#0" expanded="false" />
-            <element signature="e#6533#6590#0" expanded="false" />
-            <element signature="e#6682#6739#0" expanded="false" />
-            <element signature="e#7215#7277#0" expanded="false" />
-            <element signature="e#7289#7361#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -334,13 +324,7 @@
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="192" column="9" selection-start="2671" selection-end="2671" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#5568#6523#0" expanded="false" />
-            <element signature="e#6533#6590#0" expanded="false" />
-            <element signature="e#6682#6739#0" expanded="false" />
-            <element signature="e#7215#7277#0" expanded="false" />
-            <element signature="e#7289#7361#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -354,13 +338,7 @@
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="197" column="16" selection-start="2717" selection-end="2717" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#5568#6523#0" expanded="false" />
-            <element signature="e#6533#6590#0" expanded="false" />
-            <element signature="e#6682#6739#0" expanded="false" />
-            <element signature="e#7215#7277#0" expanded="false" />
-            <element signature="e#7289#7361#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -386,20 +364,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1027" column="5" selection-start="12725" selection-end="12729" vertical-scroll-proportion="-3.14">
-          <folding>
-            <element signature="e#5568#6523#0" expanded="false" />
-            <element signature="e#6533#6590#0" expanded="false" />
-            <element signature="e#6682#6739#0" expanded="false" />
-            <element signature="e#7215#7277#0" expanded="false" />
-            <element signature="e#7289#7361#0" expanded="false" />
-          </folding>
+        <state line="1027" column="5" selection-start="12725" selection-end="12729" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="250" column="65" selection-start="14015" selection-end="14020" vertical-scroll-proportion="0.17021276">
+        <state line="250" column="65" selection-start="14015" selection-end="14020" vertical-scroll-proportion="0.030195381">
           <folding />
         </state>
       </provider>
