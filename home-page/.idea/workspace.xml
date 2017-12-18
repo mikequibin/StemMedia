@@ -4,9 +4,9 @@
     <list default="true" id="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" name="Default" comment="" />
     <ignored path="home-page.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/home-page.scss" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513602450668" ignored="false" />
-    <file path="/home-page.html" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513602971385" ignored="false" />
-    <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513602461032" ignored="false" />
+    <file path="/home-page.scss" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513609461380" ignored="false" />
+    <file path="/home-page.html" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513607947306" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513609620106" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/header.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513235916991" ignored="false" />
     <file path="/header.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513235824992" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/style.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513236386310" ignored="false" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1338" column="15" selection-start="17692" selection-end="17692" vertical-scroll-proportion="-9.0">
+            <state line="1305" column="18" selection-start="17287" selection-end="17287" vertical-scroll-proportion="-5.02">
               <folding />
             </state>
           </provider>
@@ -46,7 +46,7 @@
       <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="343" column="51" selection-start="18637" selection-end="18637" vertical-scroll-proportion="0.71268654">
+            <state line="333" column="22" selection-start="17209" selection-end="18443" vertical-scroll-proportion="0.6828358">
               <folding />
             </state>
           </provider>
@@ -387,14 +387,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1338" column="15" selection-start="17692" selection-end="17692" vertical-scroll-proportion="-9.0">
+        <state line="1305" column="18" selection-start="17287" selection-end="17287" vertical-scroll-proportion="-5.02">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="343" column="51" selection-start="18637" selection-end="18637" vertical-scroll-proportion="0.71268654">
+        <state line="333" column="22" selection-start="17209" selection-end="18443" vertical-scroll-proportion="0.6828358">
           <folding />
         </state>
       </provider>
