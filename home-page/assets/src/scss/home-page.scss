@@ -528,20 +528,44 @@ p, li, a {
 
   }
 
-  &__flex{
+}
 
-    @media (max-width: 1150px) {
-      display: flex!important;
-    }
+.flex-container-ourservices{
+  display: flex;
+  justify-content: space-between;
 
-    @media (max-width: 910px) {
-      display: flex!important;
-    }
+  @media (max-width: 1150px) {
+    display: flex!important;
+  }
 
+  @media (max-width: 910px) {
+    display: flex!important;
+  }
+
+  @media (max-width: 850px) {
+    display: block!important;
+    padding-bottom: 7rem;
+  }
+
+  &__mobile{
     @media (max-width: 850px) {
-      display: block!important;
+      width: 55% !important;
+      margin: 0 auto!important;
     }
   }
+
+  .top-25{
+    @media (max-width: 850px) {
+      margin-top: 25px!important;
+    }
+  }
+
+  .top-40{
+    @media (max-width: 850px) {
+      margin-top: 40px!important;
+    }
+  }
+
 }
 
 
@@ -580,6 +604,12 @@ p, li, a {
         width: 70%;
 
 
+      }
+    }
+
+    &--fix{
+      @media (max-width:1150px) {
+        width: 75%;
       }
     }
   }
@@ -771,7 +801,7 @@ p, li, a {
   border-bottom: 2px solid #b1b1b1;
   width: 96%;
   margin: auto;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
   margin-top: -10px;
 }
 
@@ -796,9 +826,8 @@ p, li, a {
   margin: 0 auto;
   text-align: center;
   position: relative;
-  margin-top: -37rem;
+  margin-top: -36rem;
   margin-left: -7rem;
-
 
   @media (max-width: 1155px) {
     display: none;
@@ -1178,7 +1207,6 @@ p, ul, h1 {
 .video-production:hover .display-onhover{
   display : block;
   height: auto!important;
-
   }
 
 .branded-content:hover .display-onhover2{
@@ -1190,6 +1218,38 @@ p, ul, h1 {
   display : block;
   height: auto!important;
 }
+
+.hover{
+  &__orange{
+     color: #333;
+     text-decoration: none;
+   }
+
+  &__orange:hover{
+    color: #faa53f;
+  }
+
+  &__darkblue{
+    color: #333;
+    text-decoration: none;
+  }
+
+  &__darkblue:hover{
+    color: #506183;
+  }
+
+  &__red{
+    color: #333;
+    text-decoration: none;
+  }
+  &__red:hover{
+    color: #e11d2f;
+  }
+
+
+
+}
+
 
 
 /* Who We've Helped */
@@ -1244,10 +1304,7 @@ p, ul, h1 {
 
 
 .footer{
-  background: url("../images/homepage-banner.jpg") center 0;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+
   &__logo{
 
   }
@@ -1261,7 +1318,8 @@ p, ul, h1 {
       margin-top: -16px;
 
       @media (max-width:1239px) {
-        float: none;
+        float: left;
+        margin-top: 0px;
       }
     }
 
@@ -1275,6 +1333,14 @@ p, ul, h1 {
   @media (max-width:1150px) {
     padding-top: 0.62rem!important;
     padding-bottom: 0.62rem!important;
+  }
+
+  .floatleft{
+    float: left;
+  }
+
+  .floatright{
+    float: right;
   }
 }
 
