@@ -5,7 +5,7 @@
     <ignored path="home-page.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/home-page.scss" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513609461380" ignored="false" />
-    <file path="/home-page.html" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513607947306" ignored="false" />
+    <file path="/home-page.html" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513610979817" ignored="false" />
     <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513609620106" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/header.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513235916991" ignored="false" />
     <file path="/header.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513235824992" ignored="false" />
@@ -46,7 +46,7 @@
       <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="333" column="22" selection-start="17209" selection-end="18443" vertical-scroll-proportion="0.6828358">
+            <state line="82" column="77" selection-start="4262" selection-end="4262" vertical-scroll-proportion="0.33208954">
               <folding />
             </state>
           </provider>
@@ -394,7 +394,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="333" column="22" selection-start="17209" selection-end="18443" vertical-scroll-proportion="0.6828358">
+        <state line="82" column="77" selection-start="4262" selection-end="4262" vertical-scroll-proportion="0.33208954">
           <folding />
         </state>
       </provider>
