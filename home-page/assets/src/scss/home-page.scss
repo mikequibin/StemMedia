@@ -270,6 +270,31 @@ p{
   padding-top: 1.56rem;
 }
 
+.top-7{
+  padding-top: 7rem;
+
+  &__mobile{
+    @media (max-width:1167px) {
+    padding-top: 5rem;
+  }
+  }
+
+  &__2nd{
+        @media (max-width:1167px) {
+          padding-top: 5rem;
+  }
+
+ }
+}
+
+.top-8{
+  padding-top: 8rem;
+}
+
+.top-9{
+  padding-top: 9rem;
+}
+
 .top49-per{
   padding-top: 49%;
 }
@@ -361,6 +386,16 @@ p{
 
 .bottom-10{
   padding-bottom: 0.62rem;
+}
+
+.bottom-7{
+  padding-bottom: 7rem;
+
+  &__mobile{
+    @media (max-width: 917px) {
+      padding-bottom: 4rem;
+    }
+  }
 }
 
 .bottom-25{
@@ -528,7 +563,7 @@ p, li, a {
   .mobile-50{
     @media (max-width: 1090px) {
       margin: 0;
-      
+
     }
   }
 
@@ -877,7 +912,7 @@ p, li, a {
   padding: 1rem;
 
   &__1st{
-  background: url(../community/Blog1.jpg);
+  background: url(../images/p1-bg.jpg);
   height: 684px;
 
     @media (max-width:910px) {
@@ -886,11 +921,10 @@ p, li, a {
       background-repeat: no-repeat;
       background-size: cover;
     }
-
   }
 
   &__2nd{
-    background: url(../community/blog2.png);
+    background: url(../images/p2-bg.jpg);
     height: 342px;
 
     @media (max-width:910px) {
@@ -902,7 +936,7 @@ p, li, a {
   }
 
   &__3rd{
-    background: url(../community/blog3.png);
+    background: url(../images/p3-bg.jpg);
     height: 342px;
 
     @media (max-width:910px) {
@@ -914,7 +948,7 @@ p, li, a {
   }
 
   &__4th{
-    background: url(../community/blog4.png);
+    background: url(../images/p4-bg.jpg);
     height: 342px;
 
     @media (max-width:910px) {
@@ -964,14 +998,20 @@ p, li, a {
     }
   }
 
-  &__title{
+  &__title1{
     font-size: 3.31rem;
+    color: #bfa89f;
+    font-weight: 500;
+  }
+
+  &__title{
+    font-size: 2.31rem;
     color: #fff;
     font-weight: 500;
   }
 
   &__title2{
-    font-size: 2.12rem;
+    font-size: 1.5rem;
     color: white;
     font-weight: 500;
   }
@@ -985,6 +1025,12 @@ p, li, a {
   &__date{
     font-size: 1.5rem;
     color: #fff;
+    font-weight: 400;
+  }
+
+  &__date1{
+    font-size: 1.5rem;
+    color: #bfa89f;
     font-weight: 400;
   }
 
@@ -1002,6 +1048,14 @@ p, li, a {
 
   &__comment{
 
+    &--content{
+      color: #bfa89f!important;
+    }
+
+    &--content2{
+      color: #ffff!important;
+      font-size: 1rem!important;
+    }
 
     &--ic{
       float: left;
@@ -1022,11 +1076,11 @@ p, li, a {
   .add-6{
     padding-top: 6rem;
   }
-  
+
   .add-10{
     padding-top: 10rem;
   }
-  
+
   .bottom-3{
     padding-bottom: 3.7rem;
   }
@@ -1056,6 +1110,7 @@ p, li, a {
       font-size: 0.9rem;
     }
   }
+
 
 
 }
