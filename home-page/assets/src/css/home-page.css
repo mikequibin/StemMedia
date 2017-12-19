@@ -224,6 +224,9 @@ p {
 .top-25 {
   padding-top: 1.56rem; }
 
+.top-7 {
+  padding-top: 7rem; }
+
 .top49-per {
   padding-top: 49%; }
 
@@ -293,8 +296,8 @@ p {
 .bottom-10 {
   padding-bottom: 0.62rem; }
 
-.bottom-5 {
-  padding-bottom: 5rem; }
+.bottom-7 {
+  padding-bottom: 7rem; }
 
 .bottom-25 {
   padding-bottom: 1.56rem; }
@@ -769,13 +772,18 @@ p, li, a {
     background-size: cover;
     margin-top: 2rem; } }
 
-.project__title {
+.project__title1 {
   font-size: 3.31rem;
+  color: #bfa89f;
+  font-weight: 500; }
+
+.project__title {
+  font-size: 2.31rem;
   color: #fff;
   font-weight: 500; }
 
 .project__title2 {
-  font-size: 2.12rem;
+  font-size: 1.5rem;
   color: white;
   font-weight: 500; }
 
@@ -789,6 +797,11 @@ p, li, a {
   color: #fff;
   font-weight: 400; }
 
+.project__date1 {
+  font-size: 1.5rem;
+  color: #bfa89f;
+  font-weight: 400; }
+
 .project__date3 {
   font-size: 1rem;
   color: white;
@@ -798,6 +811,13 @@ p, li, a {
   font-size: 1.5rem;
   color: white;
   font-weight: 500; }
+
+.project__comment--content {
+  color: #bfa89f !important; }
+
+.project__comment--content2 {
+  color: #ffff !important;
+  font-size: 1rem !important; }
 
 .project__comment--ic {
   float: left;

@@ -270,6 +270,10 @@ p{
   padding-top: 1.56rem;
 }
 
+.top-7{
+  padding-top: 7rem;
+}
+
 .top49-per{
   padding-top: 49%;
 }
@@ -363,8 +367,8 @@ p{
   padding-bottom: 0.62rem;
 }
 
-.bottom-5{
-  padding-bottom: 5rem;
+.bottom-7{
+  padding-bottom: 7rem;
 }
 
 .bottom-25{
@@ -967,14 +971,20 @@ p, li, a {
     }
   }
 
-  &__title{
+  &__title1{
     font-size: 3.31rem;
+    color: #bfa89f;
+    font-weight: 500;
+  }
+
+  &__title{
+    font-size: 2.31rem;
     color: #fff;
     font-weight: 500;
   }
 
   &__title2{
-    font-size: 2.12rem;
+    font-size: 1.5rem;
     color: white;
     font-weight: 500;
   }
@@ -988,6 +998,12 @@ p, li, a {
   &__date{
     font-size: 1.5rem;
     color: #fff;
+    font-weight: 400;
+  }
+
+  &__date1{
+    font-size: 1.5rem;
+    color: #bfa89f;
     font-weight: 400;
   }
 
@@ -1005,6 +1021,14 @@ p, li, a {
 
   &__comment{
 
+    &--content{
+      color: #bfa89f!important;
+    }
+
+    &--content2{
+      color: #ffff!important;
+      font-size: 1rem!important;
+    }
 
     &--ic{
       float: left;
