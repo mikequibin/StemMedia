@@ -877,7 +877,7 @@ p, li, a {
   padding: 1rem;
 
   &__1st{
-  background: url(../images/p1-bg.jpg);
+  background: url(../community/Blog1.jpg);
   height: 684px;
 
     @media (max-width:910px) {
@@ -890,7 +890,7 @@ p, li, a {
   }
 
   &__2nd{
-    background: url(../images/p2-bg.jpg);
+    background: url(../community/blog2.png);
     height: 342px;
 
     @media (max-width:910px) {
@@ -902,7 +902,7 @@ p, li, a {
   }
 
   &__3rd{
-    background: url(../images/p3-bg.jpg);
+    background: url(../community/blog3.png);
     height: 342px;
 
     @media (max-width:910px) {
@@ -914,7 +914,7 @@ p, li, a {
   }
 
   &__4th{
-    background: url(../images/p4-bg.jpg);
+    background: url(../community/blog4.png);
     height: 342px;
 
     @media (max-width:910px) {
@@ -926,7 +926,7 @@ p, li, a {
   }
 
   &__5th{
-    background: url(../images/p5-bg.jpg);
+    background: url(../community/blog5.jpg);
     height: 342px;
 
     @media (max-width:910px) {
@@ -1023,8 +1023,8 @@ p, li, a {
     padding-top: 6rem;
   }
   
-  .add-16{
-    padding-top: 16rem;
+  .add-10{
+    padding-top: 10rem;
   }
   
   .bottom-3{
@@ -1039,8 +1039,8 @@ p, li, a {
     padding-bottom: 9rem;
   }
 
-  .bottom-14{
-    padding-bottom: 14rem;
+  .bottom-10{
+    padding-bottom: 10rem;
   }
 
   .hr1{
@@ -1310,9 +1310,10 @@ p, ul, h1 {
 .comm-header-mobile{
 
   @media (max-width: 1150px){
-    margin-top: -250px;
+    margin-top: -190px;
   }
 }
+
 
 
 /* Footer */
