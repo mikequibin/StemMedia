@@ -4,7 +4,7 @@
     <list default="true" id="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" name="Default" comment="" />
     <ignored path="home-page.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/home-page.scss" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513658882406" ignored="false" />
+    <file path="/home-page.scss" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513660814878" ignored="false" />
     <file path="/home-page.html" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513660132624" ignored="false" />
     <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513602461032" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/header.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513235916991" ignored="false" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1041" column="12" selection-start="13691" selection-end="13691" vertical-scroll-proportion="-18.52">
+            <state line="869" column="16" selection-start="10955" selection-end="10955" vertical-scroll-proportion="-9.68">
               <folding />
             </state>
           </provider>
@@ -46,7 +46,7 @@
       <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="132" column="76" selection-start="7150" selection-end="7150" vertical-scroll-proportion="3.5517857">
+            <state line="23" column="113" selection-start="1321" selection-end="1321" vertical-scroll-proportion="0.060714286">
               <folding />
             </state>
           </provider>
@@ -62,8 +62,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/assets/src/scss/home-page.scss" />
         <option value="$PROJECT_DIR$/home-page.html" />
+        <option value="$PROJECT_DIR$/assets/src/scss/home-page.scss" />
       </list>
     </option>
   </component>
@@ -385,14 +385,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1041" column="12" selection-start="13691" selection-end="13691" vertical-scroll-proportion="-18.52">
+        <state line="869" column="16" selection-start="10955" selection-end="10955" vertical-scroll-proportion="-9.68">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="76" selection-start="7150" selection-end="7150" vertical-scroll-proportion="3.5517857">
+        <state line="23" column="113" selection-start="1321" selection-end="1321" vertical-scroll-proportion="0.060714286">
           <folding />
         </state>
       </provider>
