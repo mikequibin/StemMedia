@@ -363,6 +363,10 @@ p{
   padding-bottom: 0.62rem;
 }
 
+.bottom-5{
+  padding-bottom: 5rem;
+}
+
 .bottom-25{
   padding-bottom: 1.56rem;
 }
@@ -877,7 +881,7 @@ p, li, a {
   padding: 1rem;
 
   &__1st{
-  background: url(../community/Blog1.jpg);
+  background: url(../images/p1-bg.jpg);
   height: 684px;
 
     @media (max-width:910px) {
@@ -886,11 +890,10 @@ p, li, a {
       background-repeat: no-repeat;
       background-size: cover;
     }
-
   }
 
   &__2nd{
-    background: url(../community/blog2.png);
+    background: url(../images/p2-bg.jpg);
     height: 342px;
 
     @media (max-width:910px) {
@@ -1056,6 +1059,7 @@ p, li, a {
       font-size: 0.9rem;
     }
   }
+
 
 
 }
