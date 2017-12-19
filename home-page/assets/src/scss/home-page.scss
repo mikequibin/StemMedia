@@ -495,6 +495,17 @@ p, li, a {
   display: flex;
   justify-content: space-between;
   cursor: pointer;
+
+  @media (max-width:910px) {
+    display: block;
+  }
+
+  .mobile-full{
+    @media (max-width:910px) {
+      width: 100%;
+    }
+
+  }
 }
 
 .flex-container-comm{
@@ -1012,8 +1023,8 @@ p, li, a {
     padding-top: 6rem;
   }
   
-  .add-16{
-    padding-top: 16rem;
+  .add-10{
+    padding-top: 10rem;
   }
   
   .bottom-3{
@@ -1058,6 +1069,10 @@ p, li, a {
   padding-bottom: 5%;
   padding-right: 3.12rem;
   padding-left: 3.12rem;
+
+  @media (max-width:910px) {
+   background: none;
+  }
 }
 
 .video-section{
@@ -1286,9 +1301,9 @@ p, ul, h1 {
 
 .mobile-margin45{
 
-  @media (max-width: 1150px) {
-      padding-bottom: 45px;
-      padding-top: 45px;
+  @media (max-width: 1155px) {
+    padding-bottom: 8rem;
+    padding-top: 4rem;
   }
 
 }

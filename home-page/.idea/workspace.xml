@@ -5,7 +5,7 @@
     <ignored path="home-page.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/home-page.scss" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513602450668" ignored="false" />
-    <file path="/home-page.html" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513602971385" ignored="false" />
+    <file path="/home-page.html" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513651705194" ignored="false" />
     <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513602461032" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/header.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513235916991" ignored="false" />
     <file path="/header.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513235824992" ignored="false" />
@@ -34,19 +34,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home-page.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1300" column="0" selection-start="17198" selection-end="17198" vertical-scroll-proportion="0.028380634">
+            <state line="1025" column="9" selection-start="13512" selection-end="13512" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home-page.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="287" column="8" selection-start="15948" selection-end="15948" vertical-scroll-proportion="0.0">
+            <state line="110" column="36" selection-start="5615" selection-end="5615" vertical-scroll-proportion="0.030357143">
               <folding />
             </state>
           </provider>
@@ -62,8 +62,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/home-page.html" />
         <option value="$PROJECT_DIR$/assets/src/scss/home-page.scss" />
+        <option value="$PROJECT_DIR$/home-page.html" />
       </list>
     </option>
   </component>
@@ -231,7 +231,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24948876" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14772727" sideWeight="0.9832215" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15" sideWeight="0.9832215" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -383,16 +383,16 @@
         <state line="831" column="0" selection-start="14058" selection-end="14058" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home-page.html">
+    <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="287" column="8" selection-start="15948" selection-end="15948" vertical-scroll-proportion="0.0">
+        <state line="1025" column="9" selection-start="13512" selection-end="13512" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
+    <entry file="file://$PROJECT_DIR$/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1300" column="0" selection-start="17198" selection-end="17198" vertical-scroll-proportion="0.028380634">
+        <state line="110" column="36" selection-start="5615" selection-end="5615" vertical-scroll-proportion="0.030357143">
           <folding />
         </state>
       </provider>
