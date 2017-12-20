@@ -1388,6 +1388,10 @@ p, ul, h1 {
 
 .footer{
 
+  &__top{
+    padding-top: 0.25rem;
+  }
+
   &__logo{
 
   }
@@ -1447,6 +1451,12 @@ p, ul, h1 {
 }
 
 .footer-icons{
-  margin-left: 75%;
+  margin-left: 77%;
+  margin-top: -30px;
+}
+
+.footer-barline{
+  margin: 15px 30px;
+  width: 95%;
 }
 

@@ -1073,6 +1073,9 @@ p, ul, h1 {
   .comm-header-mobile {
     margin-top: -190px; } }
 
+.footer__top {
+  padding-top: 0.25rem; }
+
 .footer__navbar {
   margin-left: -35%; }
 
@@ -1120,4 +1123,9 @@ p, ul, h1 {
   font-size: 12px; }
 
 .footer-icons {
-  margin-left: 75%; }
+  margin-left: 77%;
+  margin-top: -30px; }
+
+.footer-barline {
+  margin: 15px 30px;
+  width: 95%; }
