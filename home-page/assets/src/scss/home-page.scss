@@ -243,6 +243,16 @@ p{
 
 .top-45{
   padding-top: 45px;
+
+  &__footer-mobile{
+    @media (max-width:837px) {
+      padding-top: 95px;
+    }
+
+    @media (max-width:714px) {
+      padding-top: 40px;
+    }
+  }
 }
 
 .top-40{
@@ -614,7 +624,6 @@ p, li, a {
 
 }
 
-
 .row{
 
   &__75{
@@ -734,8 +743,9 @@ p, li, a {
 }
 
 .stem-logo{
-  padding-left: 1.87rem;
-  padding-top: 1.25rem;
+  @media (max-width:1166px) {
+    margin: 0 130%;
+  }
 }
 
 .banner{
@@ -771,7 +781,7 @@ p, li, a {
   }
 
   @media (max-width:1155px) {
-    padding: 5px;
+    padding: 15px;
   }
 }
 
@@ -1377,7 +1387,6 @@ p, ul, h1 {
 
 /* Footer */
 
-
 .footer{
 
   &__logo{
@@ -1385,7 +1394,19 @@ p, ul, h1 {
   }
 
   &__navbar{
-    margin-left: 28%;
+    margin-left: -35%;
+
+    @media (max-width:837px) {
+      margin-left: -50%;
+    }
+
+    @media (max-width:714px) {
+      margin-left: -40%;
+    }
+
+    @media (max-width:634px) {
+      margin-left: -32%;
+    }
 
     &--submit{
       float: left;
@@ -1394,7 +1415,6 @@ p, ul, h1 {
 
       @media (max-width:1239px) {
         float: left;
-        margin-top: 0px;
       }
     }
 
