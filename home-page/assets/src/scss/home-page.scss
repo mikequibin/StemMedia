@@ -270,6 +270,31 @@ p{
   padding-top: 1.56rem;
 }
 
+.top-7{
+  padding-top: 7rem;
+
+  &__mobile{
+    @media (max-width:1167px) {
+    padding-top: 5rem;
+  }
+  }
+
+  &__2nd{
+        @media (max-width:1167px) {
+          padding-top: 5rem;
+  }
+
+ }
+}
+
+.top-8{
+  padding-top: 8rem;
+}
+
+.top-9{
+  padding-top: 9rem;
+}
+
 .top49-per{
   padding-top: 49%;
 }
@@ -361,6 +386,16 @@ p{
 
 .bottom-10{
   padding-bottom: 0.62rem;
+}
+
+.bottom-7{
+  padding-bottom: 7rem;
+
+  &__mobile{
+    @media (max-width: 917px) {
+      padding-bottom: 4rem;
+    }
+  }
 }
 
 .bottom-25{
@@ -495,6 +530,17 @@ p, li, a {
   display: flex;
   justify-content: space-between;
   cursor: pointer;
+
+  @media (max-width:910px) {
+    display: block;
+  }
+
+  .mobile-full{
+    @media (max-width:910px) {
+      width: 100%;
+    }
+
+  }
 }
 
 .flex-container-comm{
@@ -517,7 +563,7 @@ p, li, a {
   .mobile-50{
     @media (max-width: 1090px) {
       margin: 0;
-      
+
     }
   }
 
@@ -528,20 +574,44 @@ p, li, a {
 
   }
 
-  &__flex{
+}
 
-    @media (max-width: 1150px) {
-      display: flex!important;
-    }
+.flex-container-ourservices{
+  display: flex;
+  justify-content: space-between;
 
-    @media (max-width: 910px) {
-      display: flex!important;
-    }
+  @media (max-width: 1150px) {
+    display: flex!important;
+  }
 
+  @media (max-width: 910px) {
+    display: flex!important;
+  }
+
+  @media (max-width: 850px) {
+    display: block!important;
+    padding-bottom: 7rem;
+  }
+
+  &__mobile{
     @media (max-width: 850px) {
-      display: block!important;
+      width: 55% !important;
+      margin: 0 auto!important;
     }
   }
+
+  .top-25{
+    @media (max-width: 850px) {
+      margin-top: 25px!important;
+    }
+  }
+
+  .top-40{
+    @media (max-width: 850px) {
+      margin-top: 40px!important;
+    }
+  }
+
 }
 
 
@@ -580,6 +650,12 @@ p, li, a {
         width: 70%;
 
 
+      }
+    }
+
+    &--fix{
+      @media (max-width:1150px) {
+        width: 75%;
       }
     }
   }
@@ -771,7 +847,7 @@ p, li, a {
   border-bottom: 2px solid #b1b1b1;
   width: 96%;
   margin: auto;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
   margin-top: -10px;
 }
 
@@ -796,9 +872,8 @@ p, li, a {
   margin: 0 auto;
   text-align: center;
   position: relative;
-  margin-top: -37rem;
+  margin-top: -36rem;
   margin-left: -7rem;
-
 
   @media (max-width: 1155px) {
     display: none;
@@ -846,7 +921,6 @@ p, li, a {
       background-repeat: no-repeat;
       background-size: cover;
     }
-
   }
 
   &__2nd{
@@ -924,27 +998,43 @@ p, li, a {
     }
   }
 
-  &__title{
+  &__title1{
     font-size: 3.31rem;
+    color: #bfa89f;
+    font-weight: 500;
+    line-height: 90%;
+  }
+
+  &__title{
+    font-size: 2.31rem;
     color: #fff;
     font-weight: 500;
+    line-height: 90%;
   }
 
   &__title2{
-    font-size: 2.12rem;
+    font-size: 1.5rem;
     color: white;
     font-weight: 500;
+    line-height: 95%;
   }
 
   &__title6{
     font-size: 3.37rem;
     color: white;
     font-weight: 500;
+    line-height: 95%;
   }
 
   &__date{
     font-size: 1.5rem;
     color: #fff;
+    font-weight: 400;
+  }
+
+  &__date1{
+    font-size: 1.5rem;
+    color: #bfa89f;
     font-weight: 400;
   }
 
@@ -962,6 +1052,14 @@ p, li, a {
 
   &__comment{
 
+    &--content{
+      color: #bfa89f!important;
+    }
+
+    &--content2{
+      color: #ffff!important;
+      font-size: 1rem!important;
+    }
 
     &--ic{
       float: left;
@@ -982,11 +1080,11 @@ p, li, a {
   .add-6{
     padding-top: 6rem;
   }
-  
-  .add-16{
-    padding-top: 16rem;
+
+  .add-10{
+    padding-top: 10rem;
   }
-  
+
   .bottom-3{
     padding-bottom: 3.7rem;
   }
@@ -999,8 +1097,8 @@ p, li, a {
     padding-bottom: 9rem;
   }
 
-  .bottom-14{
-    padding-bottom: 14rem;
+  .bottom-10{
+    padding-bottom: 10rem;
   }
 
   .hr1{
@@ -1018,6 +1116,7 @@ p, li, a {
   }
 
 
+
 }
 
 
@@ -1029,6 +1128,10 @@ p, li, a {
   padding-bottom: 5%;
   padding-right: 3.12rem;
   padding-left: 3.12rem;
+
+  @media (max-width:910px) {
+   background: none;
+  }
 }
 
 .video-section{
@@ -1178,7 +1281,6 @@ p, ul, h1 {
 .video-production:hover .display-onhover{
   display : block;
   height: auto!important;
-
   }
 
 .branded-content:hover .display-onhover2{
@@ -1190,6 +1292,38 @@ p, ul, h1 {
   display : block;
   height: auto!important;
 }
+
+.hover{
+  &__orange{
+     color: #333;
+     text-decoration: none;
+   }
+
+  &__orange:hover{
+    color: #faa53f;
+  }
+
+  &__darkblue{
+    color: #333;
+    text-decoration: none;
+  }
+
+  &__darkblue:hover{
+    color: #506183;
+  }
+
+  &__red{
+    color: #333;
+    text-decoration: none;
+  }
+  &__red:hover{
+    color: #e11d2f;
+  }
+
+
+
+}
+
 
 
 /* Who We've Helped */
@@ -1226,28 +1360,26 @@ p, ul, h1 {
 
 .mobile-margin45{
 
-  @media (max-width: 1150px) {
-      padding-bottom: 45px;
-      padding-top: 45px;
+  @media (max-width: 1155px) {
+    padding-bottom: 8rem;
+    padding-top: 4rem;
   }
 
 }
 .comm-header-mobile{
 
   @media (max-width: 1150px){
-    margin-top: -250px;
+    margin-top: -190px;
   }
 }
+
 
 
 /* Footer */
 
 
 .footer{
-  background: url("../images/homepage-banner.jpg") center 0;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+
   &__logo{
 
   }
@@ -1261,7 +1393,8 @@ p, ul, h1 {
       margin-top: -16px;
 
       @media (max-width:1239px) {
-        float: none;
+        float: left;
+        margin-top: 0px;
       }
     }
 
@@ -1275,6 +1408,14 @@ p, ul, h1 {
   @media (max-width:1150px) {
     padding-top: 0.62rem!important;
     padding-bottom: 0.62rem!important;
+  }
+
+  .floatleft{
+    float: left;
+  }
+
+  .floatright{
+    float: right;
   }
 }
 
