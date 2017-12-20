@@ -960,7 +960,7 @@ p, li, a {
   }
 
   &__5th{
-    background: url(../community/blog5.jpg);
+    background: url(../images/p5-bg.jpg);
     height: 342px;
 
     @media (max-width:910px) {
@@ -1002,24 +1002,28 @@ p, li, a {
     font-size: 3.31rem;
     color: #bfa89f;
     font-weight: 500;
+    line-height: 90%;
   }
 
   &__title{
     font-size: 2.31rem;
     color: #fff;
     font-weight: 500;
+    line-height: 90%;
   }
 
   &__title2{
     font-size: 1.5rem;
     color: white;
     font-weight: 500;
+    line-height: 95%;
   }
 
   &__title6{
     font-size: 3.37rem;
     color: white;
     font-weight: 500;
+    line-height: 95%;
   }
 
   &__date{
