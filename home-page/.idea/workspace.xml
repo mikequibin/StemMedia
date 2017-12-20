@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/home-page.scss" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513742682246" ignored="false" />
     <file path="/home-page.html" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513741984016" ignored="false" />
-    <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513742444245" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513742972973" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/header.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513235916991" ignored="false" />
     <file path="/header.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513235824992" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/style.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513236386310" ignored="false" />
@@ -46,7 +46,7 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="747" column="3" selection-start="9111" selection-end="9111" vertical-scroll-proportion="0.42206654">
+            <state line="748" column="0" selection-start="9109" selection-end="9109" vertical-scroll-proportion="0.51138353">
               <folding />
             </state>
           </provider>
@@ -403,7 +403,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="747" column="3" selection-start="9111" selection-end="9111" vertical-scroll-proportion="0.42206654">
+        <state line="748" column="0" selection-start="9109" selection-end="9109" vertical-scroll-proportion="0.51138353">
           <folding />
         </state>
       </provider>
