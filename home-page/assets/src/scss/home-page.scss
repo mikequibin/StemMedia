@@ -54,30 +54,49 @@ h1, h2, h3, h4, h5{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  &__logo{
+  z-index: 2;
 
+  &__logo{
+    @media (max-width:1150px) {
+      width: 25%!important;
+    margin: 0!important;
+    padding-top: 0!important;
+    padding-bottom: 0!important;
+    margin-bottom: 0!important;
+
+    }
   }
 
   &__navbar{
     margin-left: 35%;
+    position: relative;
+    z-index: 2;
+
+    @media (max-width:1250px) {
+      margin-left: 29%;
+    }
+
+    @media (max-width:1150px) {
+      margin-left: 25%!important;
+      width: 75%!important;
+    }
 
     &--submit{
       float: left;
       margin-left: 1.87rem;
       margin-top: -16px;
+      z-index: 2;
     }
 
     &--search{
       float: left;
       margin-left: 1.25rem;
       margin-top: -20px;
+      z-index: 2;
     }
   }
 
-  @media (max-width:1150px) {
-    padding-top: 0.62rem!important;
-    padding-bottom: 0.62rem!important;
-  }
+
 }
 
 
@@ -529,6 +548,11 @@ p, li, a {
 
 }
 
+.z-top{
+  position: relative;
+  z-index: 2;
+}
+
 .flex-container2{
   display: flex;
   justify-content: space-between;
@@ -745,13 +769,16 @@ p, li, a {
 .stem-logo{
   padding-left: 1.87rem;
   padding-top: 1.25rem;
+  z-index: 2;
 }
 
 .banner{
 
   &__heading{
     color: #fff;
-    margin: 140px 0.62rem 205px 0.62rem;
+    margin: 100px 0.62rem 250px 0.62rem;
+    position: relative;
+    z-index: 2;
   }
 
   &__down-arrow{
@@ -820,9 +847,13 @@ p, li, a {
   float: right;
   margin-top: -16%;
   margin-right: 3%;
+  z-index: 2;
+  position: relative;
+  z-index: 2;
 
   &__icons{
     width: 85%;
+    z-index: 2;
   }
 }
 
@@ -1460,3 +1491,59 @@ p, ul, h1 {
   width: 95%;
 }
 
+#myVideo {
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.videoset{
+  z-index:1;
+  display: block;
+  position: absolute;
+  margin: 0 auto;
+  padding: 0;
+  top: 50%;
+  left: 50%;
+  width: auto;
+  height: auto;
+  min-width: 100%;
+  min-height: 100%;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.videoset{
+  background: url(https://s3.amazonaws.com/media.brandetize.com/website_assets/images/homepage/top-bg.jpg) no-repeat;
+  background-size: cover;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+
+}
+
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+#myBtn {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+}

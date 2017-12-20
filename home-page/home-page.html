@@ -13,6 +13,10 @@
 
 <header class="header">
     <div class="flex-container">
+        <video autoplay muted loop id="myVideo" class="videoset">
+            <source src="assets/videos/bg-video.mp4" type="video/mp4">
+            Your browser does not support HTML5 video.
+        </video>
         <div class="header__logo row row__25">
             <a href=""><img class="stem-logo float" src="assets/images/stem-logo.png" alt=""/></a>
         </div>
@@ -42,7 +46,7 @@
                 <h1 class=" text-center decoration-dark">Technical Intelligence meets </br> Creative Genius</h1>
             </div>
             <div class="banner__down-arrow">
-                <a class="jumper" href="#two"><img class="top-30 bottom-30" src="assets/images/down-arrow.PNG" alt=""/></a>
+                <a class="jumper z-top" href="#two"><img class="top-30 bottom-30" src="assets/images/down-arrow.PNG" alt=""/></a>
             </div>
         </div>
      </div>
@@ -56,6 +60,8 @@
     
 </header>
 
+
+
 <body>
     <div class="white-box">
         <div class="flex-container flex-margin0">
@@ -64,13 +70,11 @@
                 <div class="top-20 margin-20 bottom-10 mobile-margin45">
 
                     <h2 class="text-white font-700 decoration-stem">
-                    STEM•M<span class="font-40">EDIA</span> CREATIVITY INSPIRATION
+                    STEMedia™ | STEM•Media |<span class="font-40"></span> 
                     </h2>
                     <div class="hr"></div>
 
-                    <p class="font-500 letter-spacing bottom-10 top-15 left-90">Content for the Science,</br>
-                        Technology, Engineering,</br>
-                        & Math (STEM) Community!
+                    <p class="font-500 letter-spacing bottom-10 top-15 left-90"> Creative x Inspirational content for the Science, Technology, Engineering, & Math (STEM) community!
                     </p>
                     
                     <div class="white-button left-90">
@@ -358,6 +362,20 @@
 </footer>
 
 <script src="assets/js/home-page.min.js"></script>
+<script>
+    var video = document.getElementById("myVideo");
+    var btn = document.getElementById("myBtn");
+
+    function myFunction() {
+        if (video.paused) {
+            video.play();
+            btn.innerHTML = "Pause";
+        } else {
+            video.pause();
+            btn.innerHTML = "Play";
+        }
+    }
+</script>
 
 </html>
 
