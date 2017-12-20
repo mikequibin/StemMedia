@@ -776,7 +776,7 @@ p, li, a {
 
   &__heading{
     color: #fff;
-    margin: 100px 0.62rem 250px 0.62rem;
+    margin: 5rem .62rem 22rem .62rem;
     position: relative;
     z-index: 2;
   }
@@ -954,6 +954,13 @@ p, li, a {
   &__1st{
   background: url(../images/p1-bg.jpg);
   height: 684px;
+    background-repeat: repeat;
+    background-position-x: center;
+    background-position-y: 0px;
+    background-size: auto auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
     @media (max-width:910px) {
       width: 100%;
@@ -966,6 +973,13 @@ p, li, a {
   &__2nd{
     background: url(../images/p2-bg.jpg);
     height: 342px;
+    background-repeat: repeat;
+    background-position-x: center;
+    background-position-y: 0px;
+    background-size: auto auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
     @media (max-width:910px) {
       width: 100%;
@@ -978,6 +992,13 @@ p, li, a {
   &__3rd{
     background: url(../images/p3-bg.jpg);
     height: 342px;
+    background-repeat: repeat;
+    background-position-x: center;
+    background-position-y: 0px;
+    background-size: auto auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
     @media (max-width:910px) {
       width: 100%;
@@ -990,6 +1011,13 @@ p, li, a {
   &__4th{
     background: url(../images/p4-bg.jpg);
     height: 342px;
+    background-repeat: repeat;
+    background-position-x: center;
+    background-position-y: 0px;
+    background-size: auto auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
     @media (max-width:910px) {
       width: 100%;
@@ -1002,6 +1030,13 @@ p, li, a {
   &__5th{
     background: url(../images/p5-bg.jpg);
     height: 342px;
+    background-repeat: repeat;
+    background-position-x: center;
+    background-position-y: 0px;
+    background-size: auto auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
     @media (max-width:910px) {
       width: 100%;
@@ -1015,6 +1050,13 @@ p, li, a {
   &__6th{
     background: url(../images/p6-bg.jpg);
     height: 342px;
+    background-repeat: repeat;
+    background-position-x: center;
+    background-position-y: 0px;
+    background-size: auto auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
     @media (max-width:910px) {
       width: 100%;
@@ -1028,6 +1070,13 @@ p, li, a {
   &__7th{
     background: url(../images/p7-bg.jpg);
     height: 342px;
+    background-repeat: repeat;
+    background-position-x: center;
+    background-position-y: 0px;
+    background-size: auto auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
     @media (max-width:910px) {
       width: 100%;
@@ -1168,6 +1217,14 @@ p, li, a {
   padding-bottom: 5%;
   padding-right: 3.12rem;
   padding-left: 3.12rem;
+
+  background-repeat: repeat;
+  background-position-x: center;
+  background-position-y: 0px;
+  background-size: auto auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 
   @media (max-width:910px) {
    background: none;
