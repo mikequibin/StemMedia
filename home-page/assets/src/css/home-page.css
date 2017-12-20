@@ -206,6 +206,14 @@ p {
 .top-45 {
   padding-top: 45px; }
 
+@media (max-width: 837px) {
+  .top-45__footer-mobile {
+    padding-top: 95px; } }
+
+@media (max-width: 714px) {
+  .top-45__footer-mobile {
+    padding-top: 40px; } }
+
 .top-40 {
   padding-top: 2.5rem; }
 
@@ -565,9 +573,9 @@ p, li, a {
   font-weight: 500;
   list-style: none; }
 
-.stem-logo {
-  padding-left: 1.87rem;
-  padding-top: 1.25rem; }
+@media (max-width: 1166px) {
+  .stem-logo {
+    margin: 0 130%; } }
 
 .banner__heading {
   color: #fff;
@@ -597,7 +605,7 @@ p, li, a {
 
 @media (max-width: 1155px) {
   .orange-ic {
-    padding: 5px; } }
+    padding: 15px; } }
 
 .orange-bg {
   background-color: #faa53f;
@@ -1066,7 +1074,19 @@ p, ul, h1 {
     margin-top: -190px; } }
 
 .footer__navbar {
-  margin-left: 28%; }
+  margin-left: -35%; }
+
+@media (max-width: 837px) {
+  .footer__navbar {
+    margin-left: -50%; } }
+
+@media (max-width: 714px) {
+  .footer__navbar {
+    margin-left: -40%; } }
+
+@media (max-width: 634px) {
+  .footer__navbar {
+    margin-left: -32%; } }
 
 .footer__navbar--submit {
   float: left;
@@ -1075,8 +1095,7 @@ p, ul, h1 {
 
 @media (max-width: 1239px) {
   .footer__navbar--submit {
-    float: left;
-    margin-top: 0px; } }
+    float: left; } }
 
 .footer__navbar--search {
   float: left;
