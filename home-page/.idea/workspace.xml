@@ -26,19 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home-page.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="179" column="46" selection-start="10126" selection-end="10126" vertical-scroll-proportion="0.61985016">
+            <state line="48" column="25" selection-start="2621" selection-end="2621" vertical-scroll-proportion="-4.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home-page.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1164" column="19" selection-start="16514" selection-end="16514" vertical-scroll-proportion="-11.72">
+            <state line="774" column="0" selection-start="9506" selection-end="9506" vertical-scroll-proportion="0.30366492">
               <folding />
             </state>
           </provider>
@@ -54,8 +54,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/assets/src/scss/home-page.scss" />
         <option value="$PROJECT_DIR$/home-page.html" />
+        <option value="$PROJECT_DIR$/assets/src/scss/home-page.scss" />
       </list>
     </option>
   </component>
@@ -267,16 +267,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
+    <entry file="file://$PROJECT_DIR$/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1164" column="19" selection-start="16514" selection-end="16514" vertical-scroll-proportion="-11.72">
+        <state line="48" column="25" selection-start="2621" selection-end="2621" vertical-scroll-proportion="-4.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home-page.html">
+    <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="179" column="46" selection-start="10126" selection-end="10126" vertical-scroll-proportion="0.61985016">
+        <state line="774" column="0" selection-start="9506" selection-end="9506" vertical-scroll-proportion="0.30366492">
           <folding />
         </state>
       </provider>
