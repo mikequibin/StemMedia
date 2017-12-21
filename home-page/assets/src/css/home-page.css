@@ -876,27 +876,31 @@ p, li, a {
 
 .project__title1 {
   font-size: 3.31rem;
-  color: #bfa89f;
+  color: #fff;
   font-weight: 500;
-  line-height: 90%; }
+  line-height: 90%;
+  text-shadow: 0.18rem 0.06rem 0 #000; }
 
 .project__title {
   font-size: 2.31rem;
   color: #fff;
   font-weight: 500;
-  line-height: 90%; }
+  line-height: 90%;
+  text-shadow: 0.18rem 0.06rem 0 #000; }
 
 .project__title2 {
   font-size: 1.5rem;
   color: white;
   font-weight: 500;
-  line-height: 95%; }
+  line-height: 95%;
+  text-shadow: 0.18rem 0.06rem 0 #000; }
 
 .project__title6 {
   font-size: 3.37rem;
   color: white;
   font-weight: 500;
-  line-height: 95%; }
+  line-height: 95%;
+  text-shadow: 0.18rem 0.06rem 0 #000; }
 
 .project__date {
   font-size: 1.5rem;
@@ -905,7 +909,7 @@ p, li, a {
 
 .project__date1 {
   font-size: 1.5rem;
-  color: #bfa89f;
+  color: #fff;
   font-weight: 400; }
 
 .project__date3 {
@@ -918,9 +922,6 @@ p, li, a {
   color: white;
   font-weight: 500; }
 
-.project__comment--content {
-  color: #bfa89f !important; }
-
 .project__comment--content2 {
   color: #ffff !important;
   font-size: 1rem !important; }
@@ -932,11 +933,10 @@ p, li, a {
 .project__comment p {
   float: left;
   color: #fff;
-  font-size: 1.43rem; }
+  font-size: 1.2rem; }
 
 .project__comment--avatar {
-  float: right;
-  padding-right: 1.25rem; }
+  float: right; }
 
 .project .add-6 {
   padding-top: 6rem; }

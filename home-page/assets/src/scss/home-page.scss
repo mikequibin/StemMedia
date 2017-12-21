@@ -1090,9 +1090,10 @@ p, li, a {
 
   &__title1{
     font-size: 3.31rem;
-    color: #bfa89f;
+    color: #fff;
     font-weight: 500;
     line-height: 90%;
+    text-shadow: 0.18rem 0.06rem 0 #000;
   }
 
   &__title{
@@ -1100,6 +1101,7 @@ p, li, a {
     color: #fff;
     font-weight: 500;
     line-height: 90%;
+    text-shadow: 0.18rem 0.06rem 0 #000;
   }
 
   &__title2{
@@ -1107,6 +1109,7 @@ p, li, a {
     color: white;
     font-weight: 500;
     line-height: 95%;
+    text-shadow: 0.18rem 0.06rem 0 #000;
   }
 
   &__title6{
@@ -1114,6 +1117,7 @@ p, li, a {
     color: white;
     font-weight: 500;
     line-height: 95%;
+    text-shadow: 0.18rem 0.06rem 0 #000;
   }
 
   &__date{
@@ -1124,7 +1128,7 @@ p, li, a {
 
   &__date1{
     font-size: 1.5rem;
-    color: #bfa89f;
+    color: #fff;
     font-weight: 400;
   }
 
@@ -1142,10 +1146,6 @@ p, li, a {
 
   &__comment{
 
-    &--content{
-      color: #bfa89f!important;
-    }
-
     &--content2{
       color: #ffff!important;
       font-size: 1rem!important;
@@ -1158,12 +1158,11 @@ p, li, a {
     p{
       float: left;
       color: #fff;
-      font-size: 1.43rem;
+      font-size: 1.2rem;
     }
 
     &--avatar{
       float: right;
-      padding-right: 1.25rem;
     }
   }
 

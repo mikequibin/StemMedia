@@ -4,6 +4,9 @@
     <list default="true" id="10d0320e-9355-4f95-bb15-313c09e0d927" name="Default" comment="" />
     <ignored path="home-page.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513823055719" ignored="false" />
+    <file path="/home-page.scss" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513822762688" ignored="false" />
+    <file path="/home-page.html" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513823136867" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +29,7 @@
       <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="79" selection-start="2531" selection-end="2531" vertical-scroll-proportion="0.57781756">
+            <state line="179" column="46" selection-start="10126" selection-end="10126" vertical-scroll-proportion="0.61985016">
               <folding />
             </state>
           </provider>
@@ -35,7 +38,7 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="1" selection-start="900" selection-end="900" vertical-scroll-proportion="-5.6">
+            <state line="1164" column="19" selection-start="16514" selection-end="16514" vertical-scroll-proportion="-11.72">
               <folding />
             </state>
           </provider>
@@ -266,14 +269,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="1" selection-start="900" selection-end="900" vertical-scroll-proportion="-5.6">
+        <state line="1164" column="19" selection-start="16514" selection-end="16514" vertical-scroll-proportion="-11.72">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="79" selection-start="2531" selection-end="2531" vertical-scroll-proportion="0.57781756">
+        <state line="179" column="46" selection-start="10126" selection-end="10126" vertical-scroll-proportion="0.61985016">
           <folding />
         </state>
       </provider>
