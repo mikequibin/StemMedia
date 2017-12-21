@@ -4,7 +4,7 @@
     <list default="true" id="10d0320e-9355-4f95-bb15-313c09e0d927" name="Default" comment="" />
     <ignored path="home-page.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513823055719" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513825358558" ignored="false" />
     <file path="/home-page.scss" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513822762688" ignored="false" />
     <file path="/home-page.html" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513823136867" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="774" column="0" selection-start="9506" selection-end="9506" vertical-scroll-proportion="0.30366492">
+            <state line="775" column="0" selection-start="9507" selection-end="9507" vertical-scroll-proportion="0.33333334">
               <folding />
             </state>
           </provider>
@@ -276,7 +276,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="774" column="0" selection-start="9506" selection-end="9506" vertical-scroll-proportion="0.30366492">
+        <state line="775" column="0" selection-start="9507" selection-end="9507" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
