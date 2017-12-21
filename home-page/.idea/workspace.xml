@@ -4,6 +4,7 @@
     <list default="true" id="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" name="Default" comment="" />
     <ignored path="home-page.iws" />
     <ignored path=".idea/workspace.xml" />
+<<<<<<< HEAD
     <file path="/home-page.scss" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513743908896" ignored="false" />
     <file path="/home-page.html" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513743884482" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/header.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513746386826" ignored="false" />
@@ -11,6 +12,16 @@
     <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/style.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513744825693" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/index.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513745771144" ignored="false" />
     <file path="/index.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513745678189" ignored="false" />
+=======
+    <file path="/home-page.scss" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513763243501" ignored="false" />
+    <file path="/home-page.html" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513762778758" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513763762080" ignored="false" />
+    <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/header.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513235916991" ignored="false" />
+    <file path="/header.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513235824992" ignored="false" />
+    <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/style.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513236386310" ignored="false" />
+    <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/index.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513229512272" ignored="false" />
+    <file path="/index.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513181969264" ignored="false" />
+>>>>>>> dbc46f903248b2ddf1757cfb1644c078dfb0c478
     <file path="/style.css" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513236384590" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/stemedia/footer.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513745326365" ignored="false" />
     <file path="/footer.php" changelist="29b752e6-acd8-4fbf-b7fd-2f8db62a9e65" time="1513236119388" ignored="false" />
@@ -39,7 +50,11 @@
       <file leaf-file-name="home-page.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="240" column="61" selection-start="13599" selection-end="13599" vertical-scroll-proportion="0.48833033">
+=======
+            <state line="72" column="74" selection-start="3650" selection-end="3650" vertical-scroll-proportion="0.54545456">
+>>>>>>> dbc46f903248b2ddf1757cfb1644c078dfb0c478
               <folding />
             </state>
           </provider>
@@ -48,7 +63,11 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="952" column="29" selection-start="12179" selection-end="12179" vertical-scroll-proportion="0.0">
+=======
+            <state line="1515" column="47" selection-start="20202" selection-end="20202" vertical-scroll-proportion="-15.12">
+>>>>>>> dbc46f903248b2ddf1757cfb1644c078dfb0c478
               <folding />
             </state>
           </provider>
@@ -57,7 +76,11 @@
       <file leaf-file-name="home-page.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/css/home-page.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="670" column="23" selection-start="0" selection-end="19497" vertical-scroll-proportion="0.0">
+=======
+            <state line="1049" column="0" selection-start="18125" selection-end="18125" vertical-scroll-proportion="0.0">
+>>>>>>> dbc46f903248b2ddf1757cfb1644c078dfb0c478
               <folding />
             </state>
           </provider>
@@ -80,10 +103,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
+    <option name="x" value="54" />
     <option name="y" value="-8" />
-    <option name="width" value="1319" />
-    <option name="height" value="780" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -111,6 +134,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -126,6 +150,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="home-page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home-page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home-page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -204,20 +242,6 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home-page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home-page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -225,7 +249,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,14 +276,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-8" width="1319" height="780" extended-state="0" />
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24948876" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14797136" sideWeight="0.9832215" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.145469" sideWeight="0.9832215" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> dbc46f903248b2ddf1757cfb1644c078dfb0c478
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -409,21 +436,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="952" column="29" selection-start="12179" selection-end="12179" vertical-scroll-proportion="0.0">
+=======
+        <state line="1049" column="0" selection-start="18125" selection-end="18125" vertical-scroll-proportion="0.0">
+>>>>>>> dbc46f903248b2ddf1757cfb1644c078dfb0c478
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/css/home-page.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="670" column="23" selection-start="0" selection-end="19497" vertical-scroll-proportion="0.0">
+=======
+        <state line="1515" column="47" selection-start="20202" selection-end="20202" vertical-scroll-proportion="-15.12">
+>>>>>>> dbc46f903248b2ddf1757cfb1644c078dfb0c478
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="240" column="61" selection-start="13599" selection-end="13599" vertical-scroll-proportion="0.48833033">
+=======
+        <state line="72" column="74" selection-start="3650" selection-end="3650" vertical-scroll-proportion="0.54545456">
+>>>>>>> dbc46f903248b2ddf1757cfb1644c078dfb0c478
           <folding />
         </state>
       </provider>
