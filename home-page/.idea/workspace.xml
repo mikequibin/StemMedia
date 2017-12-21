@@ -4,9 +4,9 @@
     <list default="true" id="10d0320e-9355-4f95-bb15-313c09e0d927" name="Default" comment="" />
     <ignored path="home-page.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513843865023" ignored="false" />
+    <file path="$PROJECT_DIR$/assets/css/home-page.min.css" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513846859317" ignored="false" />
     <file path="/home-page.scss" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513843871247" ignored="false" />
-    <file path="/home-page.html" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513843302099" ignored="false" />
+    <file path="/home-page.html" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513846807540" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/newstem/header.php" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513830734441" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/newstem/js/dev/smooth-scroll.js" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513831039265" ignored="false" />
     <file path="C:/wamp/www/devmike/wp-content/themes/newstem/style.css" changelist="10d0320e-9355-4f95-bb15-313c09e0d927" time="1513843596129" ignored="false" />
@@ -33,7 +33,7 @@
       <file leaf-file-name="home-page.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="8" selection-start="4553" selection-end="4669" vertical-scroll-proportion="-3.490196">
+            <state line="62" column="0" selection-start="3321" selection-end="3321" vertical-scroll-proportion="-2.8235295">
               <folding />
             </state>
           </provider>
@@ -42,7 +42,7 @@
       <file leaf-file-name="home-page.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="0" selection-start="1896" selection-end="1896" vertical-scroll-proportion="0.45373666">
+            <state line="302" column="17" selection-start="3992" selection-end="3992" vertical-scroll-proportion="0.66548043">
               <folding />
             </state>
           </provider>
@@ -359,14 +359,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="8" selection-start="4553" selection-end="4669" vertical-scroll-proportion="-3.490196">
+        <state line="62" column="0" selection-start="3321" selection-end="3321" vertical-scroll-proportion="-2.8235295">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/scss/home-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="0" selection-start="1896" selection-end="1896" vertical-scroll-proportion="0.45373666">
+        <state line="302" column="17" selection-start="3992" selection-end="3992" vertical-scroll-proportion="0.66548043">
           <folding />
         </state>
       </provider>
