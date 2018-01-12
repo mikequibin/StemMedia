@@ -96,8 +96,6 @@ h1, h2, h3, h4, h5{
       z-index: 2;
     }
   }
-
-
 }
 
 
@@ -136,6 +134,7 @@ h3{
   @media (max-width:870px) {
     margin: 0 1.25rem;
   }
+
 
   @media (max-width:815px) {
     font-size: 1.2rem;
@@ -523,6 +522,7 @@ p, li, a {
   text-decoration: none;
   text-shadow: 0.12rem 0.06rem 0px #000000;
   }
+
 
 .decoration-dark{
   text-decoration: none;
@@ -1587,7 +1587,7 @@ p, ul, h1 {
 }
 
 .videoset{
-  background: url(https://s3.amazonaws.com/media.brandetize.com/website_assets/images/homepage/top-bg.jpg) no-repeat;
+  background: url("../images/top-bg.jpg") no-repeat;
   background-size: cover;
   background-position: 0 0;
   background-repeat: no-repeat;
@@ -1616,4 +1616,9 @@ p, ul, h1 {
 #myBtn:hover {
   background: #ddd;
   color: black;
+}
+
+.col-md-8.mb-xs-24.sidebar-right{
+  padding-left: 40px;
+  padding-right: 40px;
 }
